@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="40px" viewBox="0 0 41 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Style-guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-318.000000, -368.000000)" stroke-width="2" stroke="#181818">
+            <g id="Icons" transform="translate(39.000000, 40.000000)">
+                <g id="adv5" transform="translate(280.000000, 328.000000)">
+                    <polyline id="Rectangle-5" transform="translate(10.000000, 20.000000) rotate(-180.000000) translate(-10.000000, -20.000000) " points="1.42108547e-14 1 20 1 20 39 2.11497486e-14 39"></polyline>
+                    <path d="M4,6 L17,6" id="Path-3-Copy-8"></path>
+                    <path d="M23,6 L28,6" id="Path-3-Copy-16"></path>
+                    <polyline id="Rectangle-2" transform="translate(35.500000, 6.000000) scale(1, -1) translate(-35.500000, -6.000000) " points="33 6 33 3 39 3 39 9 32 9"></polyline>
+                    <polyline id="Rectangle-2" transform="translate(35.500000, 20.000000) scale(1, -1) translate(-35.500000, -20.000000) " points="33 20 33 17 39 17 39 23 32 23"></polyline>
+                    <polyline id="Rectangle-2-Copy" transform="translate(35.500000, 34.000000) scale(1, -1) translate(-35.500000, -34.000000) " points="33 34 33 31 39 31 39 37 32 37"></polyline>
+                    <path d="M23,20 L28,20" id="Path-3-Copy-17"></path>
+                    <path d="M23,34 L28,34" id="Path-3-Copy-18"></path>
+                    <path d="M4,10 L17,10" id="Path-3-Copy-9"></path>
+                    <path d="M4,14 L17,14" id="Path-3-Copy-10"></path>
+                    <path d="M4,18 L17,18" id="Path-3-Copy-11"></path>
+                    <path d="M4,22 L17,22" id="Path-3-Copy-12"></path>
+                    <path d="M4,26 L17,26" id="Path-3-Copy-13"></path>
+                    <path d="M4,30 L17,30" id="Path-3-Copy-14"></path>
+                    <path d="M4,34 L17,34" id="Path-3-Copy-15"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

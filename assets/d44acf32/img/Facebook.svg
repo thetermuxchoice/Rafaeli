@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="16px" viewBox="0 0 7 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Style-guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-105.000000, -240.000000)" fill-rule="nonzero" fill="#181818">
+            <g id="Icons" transform="translate(39.000000, 40.000000)">
+                <path d="M67.513013,203.098691 L67.513013,205.301577 L66,205.301577 L66,207.995276 L67.513013,207.995276 L67.513013,216 L70.621063,216 L70.621063,207.995499 L72.7067088,207.995499 C72.7067088,207.995499 72.9020386,206.703891 72.9967218,205.291645 L70.6328155,205.291645 L70.6328155,203.449855 C70.6328155,203.174578 70.9716872,202.804293 71.3066181,202.804293 L73,202.804293 L73,200 L70.6975767,200 C67.4361854,199.999814 67.513013,202.696191 67.513013,203.098691 Z" id="Facebook"></path>
+            </g>
+        </g>
+    </g>
+</svg>

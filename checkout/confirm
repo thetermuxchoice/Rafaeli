@@ -1,0 +1,251 @@
+
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/assets/d44acf32/img/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/assets/d44acf32/img/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/assets/d44acf32/img/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/assets/d44acf32/img/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/assets/d44acf32/img/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/d44acf32/img/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/d44acf32/img/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/assets/d44acf32/img/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/d44acf32/img/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/assets/d44acf32/img/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/d44acf32/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/assets/d44acf32/img/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/d44acf32/img/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/assets/d44acf32/img/favicons/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/assets/d44acf32/img/favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <title>ICV | Billing</title>
+
+    <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="dTZwNWdQbDcEbzdFOD1cVFh3Ql0xES8aJF0EXQ00J3oTBEZ3FQ8aXg==">
+    <link href="https://fonts.googleapis.com/css?family=Assistant:400,700|Poppins:500,600,700" rel="stylesheet">
+<link href="/assets/d44acf32/css/jquery.fullPage.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/jquery-ui.min.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/compare.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/perfect-scrollbar.min.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/swiper.min.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/style.css?v=1581956400" rel="stylesheet">
+<link href="/assets/d44acf32/css/responsive.css?v=1580740126" rel="stylesheet">
+<script type="text/javascript">var inputmask_0f7668e0 = {"mask":"9999 9999 9999 9999"};
+
+var inputmask_8de28324 = {"mask":"99\/9999"};
+</script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-165746097-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-165746097-1');
+</script>
+
+<!-- Hotjar Tracking Code for https://icvtemplates.com/ -->
+
+<script>
+
+    (function(h,o,t,j,a,r){
+
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+
+        h._hjSettings={hjid:1799918,hjsv:6};
+
+        a=o.getElementsByTagName('head')[0];
+
+        r=o.createElement('script');r.async=1;
+
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+
+        a.appendChild(r);
+
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+
+</script>
+</head>
+<body class="beforePreload ">
+
+
+<div class="checkoutWrapper">
+    <div class="wrapper">
+
+        <a href="https://icvtemplates.com/templates?c=4" class="closeCheckout">
+            Close checkout page
+            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+        </a>
+
+        <h1 class="title">
+            Checkout
+        </h1>
+
+        <nav>
+            <a href="/checkout/index" class="disabled">
+                Basic info
+            </a>
+
+            <a href="/checkout/billing" class="disabled">
+                Billing info
+            </a>
+
+            <a href="/checkout/confirm" class="disabled">
+                Confirmation
+            </a>
+        </nav>
+
+    </div>
+
+    
+
+<form id="w0" action="/checkout/confirm" method="post">
+<input type="hidden" name="_csrf" value="dTZwNWdQbDcEbzdFOD1cVFh3Ql0xES8aJF0EXQ00J3oTBEZ3FQ8aXg==">    <div class="formWrapper">
+        <div class="cardsWrapper">
+            <img src="/assets/d44acf32/img/payment/mc.svg">
+            <img src="/assets/d44acf32/img/payment/visa.svg">
+            <img src="/assets/d44acf32/img/payment/discover.svg">
+            <img src="/assets/d44acf32/img/payment/ae.svg">
+            <span>
+            Via Credit card
+        </span>
+        </div>
+
+
+        <div class="form-group field-billing-card_number required">
+<label class="control-label" for="billing-card_number">Card number*</label>
+<input type="text" id="billing-card_number" class="form-control" name="billing[card_number]" data-plugin-inputmask="inputmask_0f7668e0">
+
+<div class="help-block"></div>
+</div>        <div class="form-group cvc fieldWithHint field-billing-cvc required">
+<label class="control-label" for="billing-cvc">CVC*</label>
+<input type="text" id="billing-cvc" class="form-control" name="billing[cvc]">
+
+<div class="help-block"></div>
+</div>        <div class="form-group expiration field-billing-expiration required">
+<label class="control-label" for="billing-expiration">expiration (MM/YYYY)*</label>
+<input type="text" id="billing-expiration" class="form-control" name="billing[expiration]" data-plugin-inputmask="inputmask_8de28324">
+
+<div class="help-block"></div>
+</div>        <div class="form-group field-billing-cardholder required">
+<label class="control-label" for="billing-cardholder">Cardholder*</label>
+<input type="text" id="billing-cardholder" class="form-control" name="billing[cardholder]">
+
+<div class="help-block"></div>
+</div>        <!--        <div>-->
+        <!--            -->        <!--            -->        <!--            -->        <!--        </div>-->
+
+    </div>
+    <div class="submitWrapper">
+        <button type="submit" class="btn">Continue</button>    </div>
+</form>
+
+    <div class="hintWrapper hidden">
+        <div class="trigger">
+            <img src="/assets/d44acf32/img/hint.svg" class="svg">
+        </div>
+        <div class="text">
+            <div>
+                <img src="/assets/d44acf32/img/card.svg" class="svg">
+                CVC is a secure code on the back of your credit card.
+                There are can be 3 or 4 (for DISCOVER ®) numbers
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+
+<div class="preloader">
+
+    <div class="outer">
+        <div class="inner">
+            <div id="circle"></div>
+
+            <div class="percentage">
+            </div>
+
+            <div class="text">
+                <div>
+                    <div>
+                        <div>
+                            WELCOME TO
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            ICV TEMPLATES
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div>
+                        <div>
+                            LOADING
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            THE ART OF CV
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div>
+                        <div>
+                            YOU’RE ALL SET
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="notify">
+    <div></div>
+</div>
+
+<script src="/assets/220d0582/jquery.js?v=1430236984"></script>
+<script src="/assets/2e3e25d2/yii.js?v=1438812030"></script>
+<script src="/assets/d44acf32/js/libs/jquery.fullPage.min.js?v=1519413586"></script>
+<script src="/assets/d44acf32/js/libs/svgConvert.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery-ui.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery.easing.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery.cookie.js?v=1519413586"></script>
+<script src="/assets/d44acf32/js/libs/isIE.js?v=1519413586"></script>
+<script src="/assets/d44acf32/js/libs/modernizr.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery.mobile.custom.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/compare.js?v=1498237082"></script>
+<script src="/assets/d44acf32/js/libs/perfect-scrollbar.jquery.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/swiper.jquery.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/jpreloader.js?v=1498470334"></script>
+<script src="/assets/d44acf32/js/libs/circle-progress.min.js?v=1498470334"></script>
+<script src="https://www.paypalobjects.com/api/checkout.js"></script>
+<script src="/assets/d44acf32/js/main.js?v=1581956400"></script>
+<script src="/assets/3f3b9d4c/jquery.inputmask.bundle.js?v=1430730228"></script>
+<script src="/assets/2e3e25d2/yii.validation.js?v=1438812030"></script>
+<script src="/assets/2e3e25d2/yii.activeForm.js?v=1438812030"></script>
+<script type="text/javascript">jQuery(document).ready(function () {
+$("#billing-card_number").inputmask(inputmask_0f7668e0);
+
+$("#billing-expiration").inputmask(inputmask_8de28324);
+
+jQuery('#w0').yiiActiveForm([{"id":"billing-card_number","name":"card_number","container":".field-billing-card_number","input":"#billing-card_number","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Card number* cannot be blank."});}},{"id":"billing-cvc","name":"cvc","container":".field-billing-cvc","input":"#billing-cvc","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"CVC* cannot be blank."});}},{"id":"billing-expiration","name":"expiration","container":".field-billing-expiration","input":"#billing-expiration","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"expiration (MM/YYYY)* cannot be blank."});}},{"id":"billing-cardholder","name":"cardholder","container":".field-billing-cardholder","input":"#billing-cardholder","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Cardholder* cannot be blank."});}}], []);
+
+    $('.checkoutWrapper nav a').eq(0).removeClass('disabled');
+    $('.checkoutWrapper nav a').eq(1).removeClass('disabled').addClass('active');
+    
+    $('.fieldWithHint').append($('.hintWrapper.hidden').removeClass('hidden'));
+
+
+});</script></body>
+</html>
+

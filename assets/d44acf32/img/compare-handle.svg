@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="-2.22044605e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFB199" offset="0%"></stop>
+            <stop stop-color="#FF0844" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Style-guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-234.000000, -40.000000)">
+            <g id="Group-5" transform="translate(234.000000, 40.000000)">
+                <path d="M35,70 C15.6700338,70 0,54.3299662 0,35 C0,15.6700338 15.6700338,0 35,0 C54.3299662,0 70,15.6700338 70,35 C70,54.3299662 54.3299662,70 35,70 Z" id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.5"></path>
+                <path d="M35,60 C48.8071187,60 60,48.8071187 60,35 C60,21.1928813 48.8071187,10 35,10 C21.1928813,10 10,21.1928813 10,35 C10,48.8071187 21.1928813,60 35,60 Z" id="Path" fill="#FFFFFF"></path>
+                <polyline id="Path-3" stroke="#181818" stroke-width="2" transform="translate(41.000000, 35.000000) rotate(-180.000000) translate(-41.000000, -35.000000) " points="43 31 39 35.0685615 43 39"></polyline>
+                <polyline id="Path-3-Copy" stroke="#181818" stroke-width="2" transform="translate(29.000000, 35.000000) scale(-1, 1) rotate(-180.000000) translate(-29.000000, -35.000000) " points="31 31 27 35.0685615 31 39"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

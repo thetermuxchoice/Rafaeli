@@ -1,0 +1,785 @@
+
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/assets/d44acf32/img/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/assets/d44acf32/img/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/assets/d44acf32/img/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/assets/d44acf32/img/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/assets/d44acf32/img/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/d44acf32/img/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/d44acf32/img/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/assets/d44acf32/img/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/d44acf32/img/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/assets/d44acf32/img/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/d44acf32/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/assets/d44acf32/img/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/d44acf32/img/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/assets/d44acf32/img/favicons/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/assets/d44acf32/img/favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <title>ICV Template Store</title>
+
+    <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="dm9tSC1IengHNio4ciVKG1suXyB7CTlVJwQZIEcsMTUQXVsKXxcMEQ==">
+    <link href="https://fonts.googleapis.com/css?family=Assistant:400,700|Poppins:500,600,700" rel="stylesheet">
+<link href="/assets/d44acf32/css/jquery.fullPage.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/jquery-ui.min.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/compare.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/perfect-scrollbar.min.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/swiper.min.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/style.css?v=1581956400" rel="stylesheet">
+<link href="/assets/d44acf32/css/responsive.css?v=1580740126" rel="stylesheet">
+<link href="/assets/da206a23/jquery.scrollPager.css?v=1498045962" rel="stylesheet">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-165746097-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-165746097-1');
+</script>
+
+<!-- Hotjar Tracking Code for https://icvtemplates.com/ -->
+
+<script>
+
+    (function(h,o,t,j,a,r){
+
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+
+        h._hjSettings={hjid:1799918,hjsv:6};
+
+        a=o.getElementsByTagName('head')[0];
+
+        r=o.createElement('script');r.async=1;
+
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+
+        a.appendChild(r);
+
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+
+</script>
+</head>
+<body class="beforePreload ">
+
+
+<div class="cartWrapper">
+    
+
+
+    <form id="cart-form" action="/templates?c=6" method="post" data-pjax>
+<input type="hidden" name="_csrf" value="dm9tSC1IengHNio4ciVKG1suXyB7CTlVJwQZIEcsMTUQXVsKXxcMEQ==">    <div class="countWrapper">
+        <div>
+            Your Cart: 13 items        </div>
+    </div>
+    <div class="itemsWrapper">
+        <div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $35.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/66"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Arch1">
+                            <img src="/uploads/product/66/7e9a6bc3d484a1dc4b3ce7bbff386016.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $35.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/68"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Arch2">
+                            <img src="/uploads/product/68/7cfc8ffa8ff0d505b2cd018fc1845880.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/69"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Aircrew1">
+                            <img src="/uploads/product/69/ad1899e807e3603db9975e6247fc73a9.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $45.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/72"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Arch3">
+                            <img src="/uploads/product/72/1212233d8421d3150d9994306ddc0a67.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $60.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/74"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/SapphireBlue">
+                            <img src="/uploads/product/74/6e1d7f0fa3e1e92dbb5c618c5349d4a7.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $25.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/79"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Cheffy1">
+                            <img src="/uploads/product/79/005df54fba1b3826e4f1b7dc52ef6bce.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/90"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/PTRAINER">
+                            <img src="/uploads/product/90/53b6b011a0607a2afda53188e511fa0b.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $45.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/91"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/WhiteSmoke">
+                            <img src="/uploads/product/91/ad407273b7e82c9002eab49b89fff10e.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $45.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/96"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Azure">
+                            <img src="/uploads/product/96/f8ff7f72af0c46ccdfbdb4527febbe3e.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/97"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/ApricotOrange">
+                            <img src="/uploads/product/97/3b89823ac732acd41e4267e9799966c4.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $50.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/103"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/BlackWidow">
+                            <img src="/uploads/product/103/fa3ec327222788f1940a507311b216d0.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $25.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/105"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Med1">
+                            <img src="/uploads/product/105/f9bb4d76e820c8ebe07b82786dea3c76.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/108"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/WoodBlack">
+                            <img src="/uploads/product/108/746f16410c8830198794e9278450baae.png">
+                        </a>
+                    </div>
+                </div>
+                    </div>
+    </div>
+    <div class="actionWrapper">
+        <div class="total">
+            <div>
+                Total: <span>$449.00</span>
+            </div>
+        </div>
+        <div class="btnWrapper">
+            <div>
+                <a href="/checkout/index" class="buyBtn">
+                    Buy
+                </a>
+            </div>
+        </div>
+    </div>
+    </form></div>
+<div class="cartOverlay"></div>
+
+
+<header>
+    <a href="/" class="logoWrapper">
+        <img src="/assets/d44acf32/img/logo.svg" alt="logo" class="svg">
+    </a>
+    <div class="actionBtnWrapper">
+                    <a href="/wishlist" class="wishlistTrigger">
+                <img src="/assets/d44acf32/img/Favoritemenu.svg" class="svg stroke">
+            </a>
+                <!--        <a href="#">-->
+        <!--            <img src="--><!--/img/template.svg" class="svg stroke">-->
+        <!--        </a>-->
+        <a href="#" class="cartTrigger">
+            <img src="/assets/d44acf32/img/bag.svg" class="svg">
+                        <span class="counter">13</span>
+        </a>
+        <a href="#" class="menuTrigger">
+            <img src="/assets/d44acf32/img/menu.svg" class="svg stroke">
+        </a>
+    </div>
+</header>
+
+
+
+    <div class="mainWrapper templatesWrapper">
+
+        <div class="categoryTitle">
+            <div class="rotateWrapper">
+                <div class="name">
+                    <div>
+                        Medical                        <span class="count">(2                            )</span>
+                    </div>
+                </div>
+                <a href="#" class="changeBtn">
+                    <div>
+                        Change profession
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="scrollHint">
+            <div class="rotateWrapper">
+                <div>
+                    Scroll down
+                </div>
+            </div>
+        </div>
+
+        <section class="templatesStart fullHeight">
+            <div class="outer">
+                <div class="inner">
+                    <h1 class="title">
+                        <div>
+                            <div>ICV</div>
+                        </div>
+                        <div>
+                            <div>Template</div>
+                        </div>
+                        <div>
+                            <div>store</div>
+                        </div>
+                    </h1>
+                    <div class="counter">
+                        <div>
+                            60+ templates
+                        </div>
+                    </div>
+                    <div class="hint">
+                        <div>
+                            Scroll down to look at all templates<br>
+                            or choose your profession below:
+                        </div>
+                    </div>
+                    <form id="filter-form" action="/templates" method="get">
+                    <div class="mainSelectWrapper">
+                        <!--                    <div class="selectHolder">-->
+                        <select id="c" class="categorySelect" name="c">
+<option value="">All (62)</option>
+<option value="3">Generic (39)</option>
+<option value="1">Environment (3)</option>
+<option value="2">Fitness (2)</option>
+<option value="4">Architect (4)</option>
+<option value="5">Chef (2)</option>
+<option value="6" selected>Medical (2)</option>
+<option value="7">Cabin Crew (1)</option>
+<option value="8">Teacher (2)</option>
+<option value="9">Purchase (1)</option>
+<option value="10">Engineering (2)</option>
+<option value="11">Graphic Designer (1)</option>
+<option value="12">Sale &amp; Marketing (2)</option>
+<option value="13">Accounting &amp; Finance (1)</option>
+</select>                        <!--                    </div>-->
+
+                        <div class="autocompleteWrapper"></div>
+                    </div>
+                    <div class="btnWrapper">
+                        <a href="#" class="scrollTrigger">
+                            Let's scroll
+                        </a>
+                    </div>
+
+
+                    </form>                </div>
+            </div>
+        </section>
+        <section class="templatesList scrollPager">
+            <div class="wrapper">
+                <div class="categoryName">
+                    Medical:
+                </div>
+                <div class="templatesListWrapper">
+                    <div id="w0">                    <div id="w1" class="list-view">
+<div class="item templateItem" data-key="105">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Med1" class="toProfile">
+            <img src="/uploads/product/105/f9bb4d76e820c8ebe07b82786dea3c76.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/105" data-formatting="25.00" data-img="/uploads/product/105/f9bb4d76e820c8ebe07b82786dea3c76.png" data-title="MED 1" data-price="$25.00" data-formatting-html="$25.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/105"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/105"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=6">
+                Medical            </a>
+            </div>
+    <a href="/templates/Med1" class="title">
+        MED 1    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $25.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="101">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Med2" class="toProfile">
+            <img src="/uploads/product/101/962e229a284c761730a73973c6929359.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/101" data-formatting="15.00" data-img="/uploads/product/101/962e229a284c761730a73973c6929359.png" data-title="MED 2" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/101"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/101"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=6">
+                Medical            </a>
+            </div>
+    <a href="/templates/Med2" class="title">
+        MED 2    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+</div>                    </div>
+                </div>
+            </div>
+        </section>
+        <div class="progressBar"></div>
+    </div>
+
+
+
+<div class="menu">
+    <div class="wrapper">
+        <div class="menuContent">
+            <a href="/" class="logo">
+                <img src="/assets/d44acf32/img/logo.svg" class="svg">
+            </a>
+            <div class="outer">
+                <div class="inner">
+                    <nav>
+                        <ul>
+                            <li>
+                                <a href="/">
+                                    <div>Homepage</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/templates">
+                                    <div>Templates</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/cvcontent">
+                                    <div>CV content</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/contact">
+                                    <div>Contact us</div>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="terms-links">
+                            <a href="/policy">
+                                <div>Privacy Policy</div>
+                            </a>
+                            <a href="/terms">
+                                <div>Terms & Conditions</div>
+                            </a>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <a href="http://zipl.pro/" target="_blank" class="zipl">
+                <span>
+                    Created by <img src="/assets/d44acf32/img/zipl.svg" class="svg">
+                </span>
+            </a>
+        </div>
+        
+
+<div class="newestTemplateWrapper">
+    <div class="outer">
+        <div class="inner">
+            <div class="label">
+                <div>
+                    
+                </div>
+            </div>
+            <div class="templateImage">
+                <a href="/templates/SapphireBlue">
+                    <img src="/uploads/product/74/6e1d7f0fa3e1e92dbb5c618c5349d4a7.png">
+                </a>
+            </div>
+            <a href="/templates/SapphireBlue" class="exploreBtn">
+                <div>
+                    Explore
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+
+<footer>
+    <div class="copyright">
+        <span>ICV Templates</span> © 2023. All rights reserved.
+    </div>
+    <div class="snWrapper">
+        <a href="#" class="snTrigger">
+            <img src="/assets/d44acf32/img/share.svg" class="svg">
+        </a>
+        <div class="snLinks">
+            <div class="mobileSection">
+                <div>
+                    Social networks:
+                </div>
+
+                <a target="_blank" href="https://www.instagram.com/icv_templates/">
+                    <img src="/assets/d44acf32/img/insta.svg" class="svg" height="16">
+                </a>
+                <a target="_blank" href="https://www.facebook.com/icv.templates.5">
+                    <img src="/assets/d44acf32/img/Facebook.svg" class="svg" height="16">
+                </a>
+                <a target="_blank" href="https://twitter.com/IcvTemplates">
+                    <img src="/assets/d44acf32/img/Shape.svg" class="svg" height="13">
+                </a>
+            </div>
+                        <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://icvtemplates.com/templates?c=6">
+                <img src="/assets/d44acf32/img/LinkedIn.svg" class="svg" height="15">
+            </a>
+            <a target="_blank" href="http://www.twitter.com/share?url=https://icvtemplates.com/templates?c=6">
+                <img src="/assets/d44acf32/img/Shape.svg" class="svg" height="13">
+            </a>
+            <a target="_blank" href="http://www.facebook.com/sharer.php?u=https://icvtemplates.com/templates?c=6">
+                <img src="/assets/d44acf32/img/Facebook.svg" class="svg" height="16">
+            </a>
+        </div>
+    </div>
+</footer>
+
+
+<div class="preloader">
+
+    <div class="outer">
+        <div class="inner">
+            <div id="circle"></div>
+
+            <div class="percentage">
+            </div>
+
+            <div class="text">
+                <div>
+                    <div>
+                        <div>
+                            WELCOME TO
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            ICV TEMPLATES
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div>
+                        <div>
+                            LOADING
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            THE ART OF CV
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div>
+                        <div>
+                            YOU’RE ALL SET
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="notify">
+    <div></div>
+</div>
+
+<div class="addFormattingPopup">
+    <div class="outer">
+        <div class="inner">
+            <div class="wrapper">
+                <div class="productInfo">
+                    <div class="infoWrapper">
+                        <div class="imgWrapper">
+                            <img>
+                        </div>
+                        <div class="title"></div>
+                    </div>
+                    <div class="price"></div>
+                </div>
+                                    <div class="formattingInfo main">
+                        <div class="checkboxWrapper">
+                            <input type="checkbox" id="formatting_cb">
+                            <label for="formatting_cb">Add formatting services</label>
+                        </div>
+                        <div class="price">
+                            + <span class="value"></span>
+                        </div>
+                        <div class="hint">
+                            <p>+ Format your CV data into our template<br />
+                            + Delivery Time 3 - 5 days<br />
+                            + Formatting Price is for upto 5 pages max<br />
+                              (Additional $10 per page will be applicable) 
+                            </p>
+                        </div>
+                    </div>
+                                <div class="formattingInfo">
+                    <div class="checkboxWrapper">
+                        <div>Restricted features</div>
+                    </div>
+                    <div class="icon">
+                        <a href="https://www.youtube.com/watch?v=3nFLrju8OUo&feature=youtu.be" target="_blank">
+                            <img src="/assets/d44acf32/img/feature4.svg">
+                        </a>
+                    </div>
+                    <div class="hint block">
+                        Click on video icon to watch the features that are restricted in the Word file. 
+                    </div>
+                </div>
+                <div class="actionsWrapper">
+                    <a href="#" class="cancelBtn">
+                        Cancel
+                    </a>
+                    <a href="#" class="toCartBtn formatting">
+                        Proceed to Buy
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="error popupIE">
+
+    <div class="inner">
+        <img src="/assets/d44acf32/img/ie.png" class="ieImg">
+        <div class="title">Not compatible<br>
+            with Internet Explorer
+        </div>
+        <div class="desc">
+            We recommend to open this<br>
+            website with Google Chrome
+        </div>
+        <a href="https://www.google.ru/chrome/browser/" target="_blank" class="btn">
+            Download Chrome
+        </a>
+    </div>
+
+</section>
+
+<script src="/assets/220d0582/jquery.js?v=1430236984"></script>
+<script src="/assets/2e3e25d2/yii.js?v=1438812030"></script>
+<script src="/assets/d44acf32/js/libs/jquery.fullPage.min.js?v=1519413586"></script>
+<script src="/assets/d44acf32/js/libs/svgConvert.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery-ui.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery.easing.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery.cookie.js?v=1519413586"></script>
+<script src="/assets/d44acf32/js/libs/isIE.js?v=1519413586"></script>
+<script src="/assets/d44acf32/js/libs/modernizr.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery.mobile.custom.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/compare.js?v=1498237082"></script>
+<script src="/assets/d44acf32/js/libs/perfect-scrollbar.jquery.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/swiper.jquery.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/jpreloader.js?v=1498470334"></script>
+<script src="/assets/d44acf32/js/libs/circle-progress.min.js?v=1498470334"></script>
+<script src="https://www.paypalobjects.com/api/checkout.js"></script>
+<script src="/assets/d44acf32/js/main.js?v=1581956400"></script>
+<script src="/assets/2e3e25d2/yii.activeForm.js?v=1438812030"></script>
+<script src="/assets/da206a23/jquery.scrollPager.js?v=1519957274"></script>
+<script src="/assets/3dbe2cd2/jquery.pjax.js?v=1498045698"></script>
+<script type="text/javascript">jQuery(document).ready(function () {
+jQuery('#filter-form').yiiActiveForm([], []);
+$('.list-view').scrollPager({"wrapper":".list-view","pagination":".pagination","next":".pagination .next a:first","bufferPx":150,"pjax":{"container":"#w0"},"item":".item","animate":false});
+jQuery('#cart-form').yiiActiveForm([], []);
+});</script></body>
+</html>
+

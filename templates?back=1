@@ -1,0 +1,3901 @@
+
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/assets/d44acf32/img/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/assets/d44acf32/img/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/assets/d44acf32/img/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/assets/d44acf32/img/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/assets/d44acf32/img/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/d44acf32/img/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/d44acf32/img/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/assets/d44acf32/img/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/d44acf32/img/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/assets/d44acf32/img/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/d44acf32/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/assets/d44acf32/img/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/d44acf32/img/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/assets/d44acf32/img/favicons/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/assets/d44acf32/img/favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <title>ICV Template Store</title>
+
+    <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="aWZPdHI0MUoYPwgELVkBKUQnfRwkdXJnOA07HBhQegcPVHk2AGtHIw==">
+    <link href="https://fonts.googleapis.com/css?family=Assistant:400,700|Poppins:500,600,700" rel="stylesheet">
+<link href="/assets/d44acf32/css/jquery.fullPage.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/jquery-ui.min.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/compare.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/perfect-scrollbar.min.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/swiper.min.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/style.css?v=1581956400" rel="stylesheet">
+<link href="/assets/d44acf32/css/responsive.css?v=1580740126" rel="stylesheet">
+<link href="/assets/da206a23/jquery.scrollPager.css?v=1498045962" rel="stylesheet">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-165746097-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-165746097-1');
+</script>
+
+<!-- Hotjar Tracking Code for https://icvtemplates.com/ -->
+
+<script>
+
+    (function(h,o,t,j,a,r){
+
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+
+        h._hjSettings={hjid:1799918,hjsv:6};
+
+        a=o.getElementsByTagName('head')[0];
+
+        r=o.createElement('script');r.async=1;
+
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+
+        a.appendChild(r);
+
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+
+</script>
+</head>
+<body class="beforePreload ">
+
+
+<div class="cartWrapper">
+    
+
+
+    <form id="cart-form" action="/templates?back=1" method="post" data-pjax>
+<input type="hidden" name="_csrf" value="aWZPdHI0MUoYPwgELVkBKUQnfRwkdXJnOA07HBhQegcPVHk2AGtHIw==">    <div class="countWrapper">
+        <div>
+            Your Cart: 62 items        </div>
+    </div>
+    <div class="itemsWrapper">
+        <div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $35.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/66"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Arch1">
+                            <img src="/uploads/product/66/7e9a6bc3d484a1dc4b3ce7bbff386016.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $35.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/68"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Arch2">
+                            <img src="/uploads/product/68/7cfc8ffa8ff0d505b2cd018fc1845880.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/69"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Aircrew1">
+                            <img src="/uploads/product/69/ad1899e807e3603db9975e6247fc73a9.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/70"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Procure">
+                            <img src="/uploads/product/70/62579b536deddd51661a9a5a0f0655bf.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $19.99 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/71"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/ForestGreen">
+                            <img src="/uploads/product/71/461ea3defee4aa44371c9ba09d6fe84a.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $45.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/72"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Arch3">
+                            <img src="/uploads/product/72/1212233d8421d3150d9994306ddc0a67.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $25.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/73"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Cobalt">
+                            <img src="/uploads/product/73/25ce04bfcb370aaba93b3904bc7d7c0f.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $60.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/74"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/SapphireBlue">
+                            <img src="/uploads/product/74/6e1d7f0fa3e1e92dbb5c618c5349d4a7.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/75"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/EngieGreen">
+                            <img src="/uploads/product/75/436ec64b3c7afdfc653dbe979184132d.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/76"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/DodgerBlue">
+                            <img src="/uploads/product/76/6d301b22ff4ff5c4f817c17121fe229e.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $19.99 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/77"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/lavishBlack">
+                            <img src="/uploads/product/77/ed43dd7ab97b75898b0789c00e4c574b.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/78"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/RubyDesgin">
+                            <img src="/uploads/product/78/f864ea88b7acad59eedd05b5745c52fb.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $25.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/79"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Cheffy1">
+                            <img src="/uploads/product/79/005df54fba1b3826e4f1b7dc52ef6bce.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/80"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Cheffy2">
+                            <img src="/uploads/product/80/ff1363755cda01b851b0b412a6cae2a7.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/81"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Cardinal">
+                            <img src="/uploads/product/81/4f874bf0fc0fcb0243a3d273a60733ee.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $19.99 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/82"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Emerald">
+                            <img src="/uploads/product/82/9a0bbcb9d71502c07f580fdb0c8e933b.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/83"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/MediumBlue">
+                            <img src="/uploads/product/83/9ecd2c3aa0c0c8dad3c9e3c0d0124d56.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $50.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/84"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/CoralBlue">
+                            <img src="/uploads/product/84/26d2dd8cdf895750ce6048234e9d07cb.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $30.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/85"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Crossfit">
+                            <img src="/uploads/product/85/75c9f78e00fc3329c1d347e99d6736f9.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/86"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/ParisGreen">
+                            <img src="/uploads/product/86/6ef4717e56b95f48b38661cf3ed9efdf.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/87"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Voiletred">
+                            <img src="/uploads/product/87/820ea9cc185948a6ccbca92633ac7dd1.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/88"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Enviro1">
+                            <img src="/uploads/product/88/4b63ad59e909d09f1958a2d6e8e770f0.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/89"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/CedarGreen">
+                            <img src="/uploads/product/89/99e2a94a09aa61d4d5568c6fe7217d5e.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/90"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/PTRAINER">
+                            <img src="/uploads/product/90/53b6b011a0607a2afda53188e511fa0b.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $45.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/91"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/WhiteSmoke">
+                            <img src="/uploads/product/91/ad407273b7e82c9002eab49b89fff10e.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $19.99 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/92"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/NavajoWhite">
+                            <img src="/uploads/product/92/db5a6dfbfaf38b18f8bdd06bdec7c305.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $19.99 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/93"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/MintGreen">
+                            <img src="/uploads/product/93/86d874e5021aeab0778d60aefed61f12.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $35.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/94"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/UmberForest">
+                            <img src="/uploads/product/94/e39f3b6a1be25239ab4924c655c24481.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $19.99 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/95"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Chartresuse">
+                            <img src="/uploads/product/95/d0c231675ad718c0029402b8be3cefff.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $45.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/96"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Azure">
+                            <img src="/uploads/product/96/f8ff7f72af0c46ccdfbdb4527febbe3e.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/97"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/ApricotOrange">
+                            <img src="/uploads/product/97/3b89823ac732acd41e4267e9799966c4.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/98"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/RavenGreen">
+                            <img src="/uploads/product/98/abf6b2689ea5bf5c02508657b332abcb.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/99"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/FossilGray">
+                            <img src="/uploads/product/99/c694c947b6f298c58e8bacfdec5e665e.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/100"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/MayaBlue">
+                            <img src="/uploads/product/100/f03fce01a94cb1d05cab33a2241f7276.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/101"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Med2">
+                            <img src="/uploads/product/101/962e229a284c761730a73973c6929359.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/102"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/HarborGray">
+                            <img src="/uploads/product/102/2bf2322f87abab52b7a62ce562763f00.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $50.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/103"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/BlackWidow">
+                            <img src="/uploads/product/103/fa3ec327222788f1940a507311b216d0.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $25.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/105"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Med1">
+                            <img src="/uploads/product/105/f9bb4d76e820c8ebe07b82786dea3c76.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/106"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/DijonBrown">
+                            <img src="/uploads/product/106/02631bcc3ba46ff4ee40b37f5d6ccbf2.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $45.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/107"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/MonarchGray">
+                            <img src="/uploads/product/107/b2486cfc340cf85d5dba421e12c76eee.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/108"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/WoodBlack">
+                            <img src="/uploads/product/108/746f16410c8830198794e9278450baae.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/109"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/SimplyBlack">
+                            <img src="/uploads/product/109/f367eeac9c4072a1e7851ef900845a42.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/110"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/JadeBalck">
+                            <img src="/uploads/product/110/888b3d0e2e121ae348af849d34622cb7.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/111"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/CiderBlack">
+                            <img src="/uploads/product/111/e887581a39a0fc60dd41c93d13490499.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/112"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/SimplyBlack2">
+                            <img src="/uploads/product/112/67a7d48e33d1a79cfb85f48fa4fa689d.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/113"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Obsidion">
+                            <img src="/uploads/product/113/ee5318e40d879e1b1c3c50b99363e1d8.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/114"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/SimplyBlack3">
+                            <img src="/uploads/product/114/3059c59eaac71cf11b3bc0fe3133cd46.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/115"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Licorice">
+                            <img src="/uploads/product/115/7e64883603b45f7c82ef7f9dd2106740.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/116"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Charcoal">
+                            <img src="/uploads/product/116/b8f7b749bfd4bae257110868a8fa0c4a.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/117"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/SootBlack">
+                            <img src="/uploads/product/117/5633bd1b3264ccdab2949e4dcfae218e.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/118"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/SardineGreen">
+                            <img src="/uploads/product/118/3aef5543500d2f323310e34add2d660c.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/119"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/FallowBrown">
+                            <img src="/uploads/product/119/3aefe92309257c1c915756187d88e608.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/120"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Edu1">
+                            <img src="/uploads/product/120/2ab4763fda8c2f672810b21f00e46239.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/121"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Edu2">
+                            <img src="/uploads/product/121/2a52e60d773422a1d1b143a4f91d73b7.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/122"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Smoky">
+                            <img src="/uploads/product/122/78ad1be14fc3116b666b50df56f416cd.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/123"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/IronGray">
+                            <img src="/uploads/product/123/eaf068abbe5fccb921e2d74a02e65570.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/124"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/LimeGreen">
+                            <img src="/uploads/product/124/b14ce36be6c9235313cc887e9384ee17.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/125"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Medallion">
+                            <img src="/uploads/product/125/1afadcfaa377370301e2c872aaaafe10.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $19.99 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/126"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Daffodil">
+                            <img src="/uploads/product/126/0009e999d830edc34ef522781a2a4940.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/127"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/FrenchBlue">
+                            <img src="/uploads/product/127/13e870c44ae991907cf528dbb59aa69b.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $19.99 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/128"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Arch4">
+                            <img src="/uploads/product/128/933a13c976a9cf7e99e87ec85a33a1a6.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/129"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Denim">
+                            <img src="/uploads/product/129/d0c85860f1964f5e057a7b03bf8043ef.png">
+                        </a>
+                    </div>
+                </div>
+                    </div>
+    </div>
+    <div class="actionWrapper">
+        <div class="total">
+            <div>
+                Total: <span>$1549.92</span>
+            </div>
+        </div>
+        <div class="btnWrapper">
+            <div>
+                <a href="/checkout/index" class="buyBtn">
+                    Buy
+                </a>
+            </div>
+        </div>
+    </div>
+    </form></div>
+<div class="cartOverlay"></div>
+
+
+<header>
+    <a href="/" class="logoWrapper">
+        <img src="/assets/d44acf32/img/logo.svg" alt="logo" class="svg">
+    </a>
+    <div class="actionBtnWrapper">
+                    <a href="/wishlist" class="wishlistTrigger">
+                <img src="/assets/d44acf32/img/Favoritemenu.svg" class="svg stroke">
+            </a>
+                <!--        <a href="#">-->
+        <!--            <img src="--><!--/img/template.svg" class="svg stroke">-->
+        <!--        </a>-->
+        <a href="#" class="cartTrigger">
+            <img src="/assets/d44acf32/img/bag.svg" class="svg">
+                        <span class="counter">62</span>
+        </a>
+        <a href="#" class="menuTrigger">
+            <img src="/assets/d44acf32/img/menu.svg" class="svg stroke">
+        </a>
+    </div>
+</header>
+
+
+
+    <div class="mainWrapper templatesWrapper">
+
+        <div class="categoryTitle">
+            <div class="rotateWrapper">
+                <div class="name">
+                    <div>
+                        All                        <span class="count">(62                            )</span>
+                    </div>
+                </div>
+                <a href="#" class="changeBtn">
+                    <div>
+                        Change profession
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="scrollHint">
+            <div class="rotateWrapper">
+                <div>
+                    Scroll down
+                </div>
+            </div>
+        </div>
+
+        <section class="templatesStart fullHeight">
+            <div class="outer">
+                <div class="inner">
+                    <h1 class="title">
+                        <div>
+                            <div>ICV</div>
+                        </div>
+                        <div>
+                            <div>Template</div>
+                        </div>
+                        <div>
+                            <div>store</div>
+                        </div>
+                    </h1>
+                    <div class="counter">
+                        <div>
+                            60+ templates
+                        </div>
+                    </div>
+                    <div class="hint">
+                        <div>
+                            Scroll down to look at all templates<br>
+                            or choose your profession below:
+                        </div>
+                    </div>
+                    <form id="filter-form" action="/templates" method="get">
+                    <div class="mainSelectWrapper">
+                        <!--                    <div class="selectHolder">-->
+                        <select id="c" class="categorySelect" name="c">
+<option value="">All (62)</option>
+<option value="3">Generic (39)</option>
+<option value="1">Environment (3)</option>
+<option value="2">Fitness (2)</option>
+<option value="4">Architect (4)</option>
+<option value="5">Chef (2)</option>
+<option value="6">Medical (2)</option>
+<option value="7">Cabin Crew (1)</option>
+<option value="8">Teacher (2)</option>
+<option value="9">Purchase (1)</option>
+<option value="10">Engineering (2)</option>
+<option value="11">Graphic Designer (1)</option>
+<option value="12">Sale &amp; Marketing (2)</option>
+<option value="13">Accounting &amp; Finance (1)</option>
+</select>                        <!--                    </div>-->
+
+                        <div class="autocompleteWrapper"></div>
+                    </div>
+                    <div class="btnWrapper">
+                        <a href="#" class="scrollTrigger">
+                            Let's scroll
+                        </a>
+                    </div>
+
+
+                    </form>                </div>
+            </div>
+        </section>
+        <section class="templatesList scrollPager">
+            <div class="wrapper">
+                <div class="categoryName">
+                    All:
+                </div>
+                <div class="templatesListWrapper">
+                    <div id="w0">                    <div id="w1" class="list-view">
+<div class="item templateItem" data-key="66">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Arch1" class="toProfile">
+            <img src="/uploads/product/66/7e9a6bc3d484a1dc4b3ce7bbff386016.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/66" data-formatting="150.00" data-img="/uploads/product/66/7e9a6bc3d484a1dc4b3ce7bbff386016.png" data-title="ARCH 1" data-price="$35.00" data-formatting-html="$150.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/66"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/66"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=4">
+                Architect            </a>
+            </div>
+    <a href="/templates/Arch1" class="title">
+        ARCH 1    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $35.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="108">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/WoodBlack" class="toProfile">
+            <img src="/uploads/product/108/746f16410c8830198794e9278450baae.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/108" data-formatting="50.00" data-img="/uploads/product/108/746f16410c8830198794e9278450baae.png" data-title="WOOD BLACK" data-price="$21.00" data-formatting-html="$50.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/108"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/108"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/WoodBlack" class="title">
+        WOOD BLACK    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="79">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Cheffy1" class="toProfile">
+            <img src="/uploads/product/79/005df54fba1b3826e4f1b7dc52ef6bce.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/79" data-formatting="40.00" data-img="/uploads/product/79/005df54fba1b3826e4f1b7dc52ef6bce.png" data-title="CHEFFY 1" data-price="$25.00" data-formatting-html="$40.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/79"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/79"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=5">
+                Chef            </a>
+            </div>
+    <a href="/templates/Cheffy1" class="title">
+        CHEFFY 1    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $25.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="72">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Arch3" class="toProfile">
+            <img src="/uploads/product/72/1212233d8421d3150d9994306ddc0a67.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/72" data-formatting="225.00" data-img="/uploads/product/72/1212233d8421d3150d9994306ddc0a67.png" data-title="ARCH 3" data-price="$45.00" data-formatting-html="$225.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/72"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/72"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=4">
+                Architect            </a>
+            </div>
+    <a href="/templates/Arch3" class="title">
+        ARCH 3    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $45.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="74">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/SapphireBlue" class="toProfile">
+            <img src="/uploads/product/74/6e1d7f0fa3e1e92dbb5c618c5349d4a7.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/74" data-formatting="200.00" data-img="/uploads/product/74/6e1d7f0fa3e1e92dbb5c618c5349d4a7.png" data-title="SAPPHIRE BLUE" data-price="$60.00" data-formatting-html="$200.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/74"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/74"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/SapphireBlue" class="title">
+        SAPPHIRE BLUE    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $60.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="103">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/BlackWidow" class="toProfile">
+            <img src="/uploads/product/103/fa3ec327222788f1940a507311b216d0.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/103" data-formatting="250.00" data-img="/uploads/product/103/fa3ec327222788f1940a507311b216d0.png" data-title="BLACK WIDOW" data-price="$50.00" data-formatting-html="$250.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/103"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/103"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=13">
+                Accounting & Finance            </a>
+            </div>
+    <a href="/templates/BlackWidow" class="title">
+        BLACK WIDOW    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $50.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="69">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Aircrew1" class="toProfile">
+            <img src="/uploads/product/69/ad1899e807e3603db9975e6247fc73a9.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/69" data-formatting="15.00" data-img="/uploads/product/69/ad1899e807e3603db9975e6247fc73a9.png" data-title="AIRCREW 1" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/69"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/69"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=7">
+                Cabin Crew            </a>
+            </div>
+    <a href="/templates/Aircrew1" class="title">
+        AIRCREW 1    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="91">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/WhiteSmoke" class="toProfile">
+            <img src="/uploads/product/91/ad407273b7e82c9002eab49b89fff10e.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/91" data-formatting="200.00" data-img="/uploads/product/91/ad407273b7e82c9002eab49b89fff10e.png" data-title="WHITE SMOKE" data-price="$45.00" data-formatting-html="$200.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/91"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/91"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/WhiteSmoke" class="title">
+        WHITE SMOKE    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $45.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="90">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/PTRAINER" class="toProfile">
+            <img src="/uploads/product/90/53b6b011a0607a2afda53188e511fa0b.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/90" data-formatting="40.00" data-img="/uploads/product/90/53b6b011a0607a2afda53188e511fa0b.png" data-title="P TRAINER" data-price="$21.00" data-formatting-html="$40.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/90"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/90"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=2">
+                Fitness            </a>
+            </div>
+    <a href="/templates/PTRAINER" class="title">
+        P TRAINER    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="96">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Azure" class="toProfile">
+            <img src="/uploads/product/96/f8ff7f72af0c46ccdfbdb4527febbe3e.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/96" data-formatting="150.00" data-img="/uploads/product/96/f8ff7f72af0c46ccdfbdb4527febbe3e.png" data-title="AZURE" data-price="$45.00" data-formatting-html="$150.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/96"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/96"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/Azure" class="title">
+        AZURE    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $45.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="97">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/ApricotOrange" class="toProfile">
+            <img src="/uploads/product/97/3b89823ac732acd41e4267e9799966c4.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/97" data-formatting="35.00" data-img="/uploads/product/97/3b89823ac732acd41e4267e9799966c4.png" data-title="APRICOT ORANGE" data-price="$21.00" data-formatting-html="$35.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/97"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/97"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/ApricotOrange" class="title">
+        APRICOT ORANGE    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="68">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Arch2" class="toProfile">
+            <img src="/uploads/product/68/7cfc8ffa8ff0d505b2cd018fc1845880.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/68" data-formatting="210.00" data-img="/uploads/product/68/7cfc8ffa8ff0d505b2cd018fc1845880.png" data-title="ARCH 2" data-price="$35.00" data-formatting-html="$210.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/68"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/68"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=4">
+                Architect            </a>
+            </div>
+    <a href="/templates/Arch2" class="title">
+        ARCH 2    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $35.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="105">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Med1" class="toProfile">
+            <img src="/uploads/product/105/f9bb4d76e820c8ebe07b82786dea3c76.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/105" data-formatting="25.00" data-img="/uploads/product/105/f9bb4d76e820c8ebe07b82786dea3c76.png" data-title="MED 1" data-price="$25.00" data-formatting-html="$25.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/105"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/105"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=6">
+                Medical            </a>
+            </div>
+    <a href="/templates/Med1" class="title">
+        MED 1    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $25.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="92">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/NavajoWhite" class="toProfile">
+            <img src="/uploads/product/92/db5a6dfbfaf38b18f8bdd06bdec7c305.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/92" data-formatting="30.00" data-img="/uploads/product/92/db5a6dfbfaf38b18f8bdd06bdec7c305.png" data-title="NAVAJO WHITE" data-price="$19.99" data-formatting-html="$30.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/92"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/92"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/NavajoWhite" class="title">
+        NAVAJO WHITE    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $19.99            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="94">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/UmberForest" class="toProfile">
+            <img src="/uploads/product/94/e39f3b6a1be25239ab4924c655c24481.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/94" data-formatting="200.00" data-img="/uploads/product/94/e39f3b6a1be25239ab4924c655c24481.png" data-title="UMBER FOREST" data-price="$35.00" data-formatting-html="$200.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/94"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/94"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=12">
+                Sale & Marketing            </a>
+            </div>
+    <a href="/templates/UmberForest" class="title">
+        UMBER FOREST    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $35.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="107">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/MonarchGray" class="toProfile">
+            <img src="/uploads/product/107/b2486cfc340cf85d5dba421e12c76eee.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/107" data-formatting="200.00" data-img="/uploads/product/107/b2486cfc340cf85d5dba421e12c76eee.png" data-title="MONARCH GRAY" data-price="$45.00" data-formatting-html="$200.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/107"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/107"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/MonarchGray" class="title">
+        MONARCH GRAY    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $45.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="95">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Chartresuse" class="toProfile">
+            <img src="/uploads/product/95/d0c231675ad718c0029402b8be3cefff.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/95" data-formatting="35.00" data-img="/uploads/product/95/d0c231675ad718c0029402b8be3cefff.png" data-title="CHARTRESUSE" data-price="$19.99" data-formatting-html="$35.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/95"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/95"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/Chartresuse" class="title">
+        CHARTRESUSE    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $19.99            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="82">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Emerald" class="toProfile">
+            <img src="/uploads/product/82/9a0bbcb9d71502c07f580fdb0c8e933b.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/82" data-formatting="35.00" data-img="/uploads/product/82/9a0bbcb9d71502c07f580fdb0c8e933b.png" data-title="EMERALD" data-price="$19.99" data-formatting-html="$35.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/82"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/82"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/Emerald" class="title">
+        EMERALD    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $19.99            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="73">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Cobalt" class="toProfile">
+            <img src="/uploads/product/73/25ce04bfcb370aaba93b3904bc7d7c0f.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/73" data-formatting="25.00" data-img="/uploads/product/73/25ce04bfcb370aaba93b3904bc7d7c0f.png" data-title="COBALT" data-price="$25.00" data-formatting-html="$25.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/73"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/73"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/Cobalt" class="title">
+        COBALT    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $25.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="71">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/ForestGreen" class="toProfile">
+            <img src="/uploads/product/71/461ea3defee4aa44371c9ba09d6fe84a.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/71" data-formatting="35.00" data-img="/uploads/product/71/461ea3defee4aa44371c9ba09d6fe84a.png" data-title="FOREST GREEN" data-price="$19.99" data-formatting-html="$35.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/71"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/71"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/ForestGreen" class="title">
+        FOREST GREEN    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $19.99            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="70">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Procure" class="toProfile">
+            <img src="/uploads/product/70/62579b536deddd51661a9a5a0f0655bf.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/70" data-formatting="40.00" data-img="/uploads/product/70/62579b536deddd51661a9a5a0f0655bf.png" data-title="PROCURE" data-price="$21.00" data-formatting-html="$40.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/70"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/70"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=9">
+                Purchase            </a>
+            </div>
+    <a href="/templates/Procure" class="title">
+        PROCURE    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="89">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/CedarGreen" class="toProfile">
+            <img src="/uploads/product/89/99e2a94a09aa61d4d5568c6fe7217d5e.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/89" data-formatting="15.00" data-img="/uploads/product/89/99e2a94a09aa61d4d5568c6fe7217d5e.png" data-title="CEDAR GREEN" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/89"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/89"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/CedarGreen" class="title">
+        CEDAR GREEN    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="93">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/MintGreen" class="toProfile">
+            <img src="/uploads/product/93/86d874e5021aeab0778d60aefed61f12.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/93" data-formatting="35.00" data-img="/uploads/product/93/86d874e5021aeab0778d60aefed61f12.png" data-title="MINT GREEN" data-price="$19.99" data-formatting-html="$35.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/93"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/93"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=12">
+                Sale & Marketing            </a>
+            </div>
+    <a href="/templates/MintGreen" class="title">
+        MINT GREEN    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $19.99            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="85">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Crossfit" class="toProfile">
+            <img src="/uploads/product/85/75c9f78e00fc3329c1d347e99d6736f9.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/85" data-formatting="40.00" data-img="/uploads/product/85/75c9f78e00fc3329c1d347e99d6736f9.png" data-title="CROSSFIT" data-price="$30.00" data-formatting-html="$40.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/85"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/85"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=2">
+                Fitness            </a>
+            </div>
+    <a href="/templates/Crossfit" class="title">
+        CROSSFIT    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $30.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="126">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Daffodil" class="toProfile">
+            <img src="/uploads/product/126/0009e999d830edc34ef522781a2a4940.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/126" data-formatting="30.00" data-img="/uploads/product/126/0009e999d830edc34ef522781a2a4940.png" data-title="DAFFODIL" data-price="$19.99" data-formatting-html="$30.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/126"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/126"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/Daffodil" class="title">
+        DAFFODIL    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $19.99            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="86">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/ParisGreen" class="toProfile">
+            <img src="/uploads/product/86/6ef4717e56b95f48b38661cf3ed9efdf.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/86" data-formatting="35.00" data-img="/uploads/product/86/6ef4717e56b95f48b38661cf3ed9efdf.png" data-title="PARIS GREEN" data-price="$21.00" data-formatting-html="$35.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/86"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/86"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/ParisGreen" class="title">
+        PARIS GREEN    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="129">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Denim" class="toProfile">
+            <img src="/uploads/product/129/d0c85860f1964f5e057a7b03bf8043ef.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/129" data-formatting="15.00" data-img="/uploads/product/129/d0c85860f1964f5e057a7b03bf8043ef.png" data-title="DENIM" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/129"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/129"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/Denim" class="title">
+        DENIM    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="87">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Voiletred" class="toProfile">
+            <img src="/uploads/product/87/820ea9cc185948a6ccbca92633ac7dd1.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/87" data-formatting="15.00" data-img="/uploads/product/87/820ea9cc185948a6ccbca92633ac7dd1.png" data-title="VOILET RED" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/87"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/87"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/Voiletred" class="title">
+        VOILET RED    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="77">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/lavishBlack" class="toProfile">
+            <img src="/uploads/product/77/ed43dd7ab97b75898b0789c00e4c574b.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/77" data-formatting="35.00" data-img="/uploads/product/77/ed43dd7ab97b75898b0789c00e4c574b.png" data-title="LAVISH BLACK" data-price="$19.99" data-formatting-html="$35.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/77"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/77"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/lavishBlack" class="title">
+        LAVISH BLACK    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $19.99            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="83">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/MediumBlue" class="toProfile">
+            <img src="/uploads/product/83/9ecd2c3aa0c0c8dad3c9e3c0d0124d56.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/83" data-formatting="15.00" data-img="/uploads/product/83/9ecd2c3aa0c0c8dad3c9e3c0d0124d56.png" data-title="MEDIUM BLUE" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/83"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/83"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/MediumBlue" class="title">
+        MEDIUM BLUE    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="78">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/RubyDesgin" class="toProfile">
+            <img src="/uploads/product/78/f864ea88b7acad59eedd05b5745c52fb.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/78" data-formatting="30.00" data-img="/uploads/product/78/f864ea88b7acad59eedd05b5745c52fb.png" data-title="RUBY DESIGN" data-price="$21.00" data-formatting-html="$30.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/78"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/78"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=11">
+                Graphic Designer            </a>
+            </div>
+    <a href="/templates/RubyDesgin" class="title">
+        RUBY DESIGN    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="127">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/FrenchBlue" class="toProfile">
+            <img src="/uploads/product/127/13e870c44ae991907cf528dbb59aa69b.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/127" data-formatting="35.00" data-img="/uploads/product/127/13e870c44ae991907cf528dbb59aa69b.png" data-title="FRENCH BLUE" data-price="$21.00" data-formatting-html="$35.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/127"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/127"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/FrenchBlue" class="title">
+        FRENCH BLUE    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="124">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/LimeGreen" class="toProfile">
+            <img src="/uploads/product/124/b14ce36be6c9235313cc887e9384ee17.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/124" data-formatting="15.00" data-img="/uploads/product/124/b14ce36be6c9235313cc887e9384ee17.png" data-title="LIME GREEN" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/124"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/124"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/LimeGreen" class="title">
+        LIME GREEN    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="122">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Smoky" class="toProfile">
+            <img src="/uploads/product/122/78ad1be14fc3116b666b50df56f416cd.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/122" data-formatting="15.00" data-img="/uploads/product/122/78ad1be14fc3116b666b50df56f416cd.png" data-title="SMOKY" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/122"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/122"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/Smoky" class="title">
+        SMOKY    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="120">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Edu1" class="toProfile">
+            <img src="/uploads/product/120/2ab4763fda8c2f672810b21f00e46239.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/120" data-formatting="15.00" data-img="/uploads/product/120/2ab4763fda8c2f672810b21f00e46239.png" data-title="EDU 1" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/120"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/120"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=8">
+                Teacher            </a>
+            </div>
+    <a href="/templates/Edu1" class="title">
+        EDU 1    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="123">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/IronGray" class="toProfile">
+            <img src="/uploads/product/123/eaf068abbe5fccb921e2d74a02e65570.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/123" data-formatting="15.00" data-img="/uploads/product/123/eaf068abbe5fccb921e2d74a02e65570.png" data-title="IRON GRAY" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/123"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/123"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/IronGray" class="title">
+        IRON GRAY    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="125">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Medallion" class="toProfile">
+            <img src="/uploads/product/125/1afadcfaa377370301e2c872aaaafe10.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/125" data-formatting="35.00" data-img="/uploads/product/125/1afadcfaa377370301e2c872aaaafe10.png" data-title="MEDALLION" data-price="$21.00" data-formatting-html="$35.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/125"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/125"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/Medallion" class="title">
+        MEDALLION    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="121">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Edu2" class="toProfile">
+            <img src="/uploads/product/121/2a52e60d773422a1d1b143a4f91d73b7.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/121" data-formatting="15.00" data-img="/uploads/product/121/2a52e60d773422a1d1b143a4f91d73b7.png" data-title="EDU 2" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/121"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/121"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=8">
+                Teacher            </a>
+            </div>
+    <a href="/templates/Edu2" class="title">
+        EDU 2    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="128">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Arch4" class="toProfile">
+            <img src="/uploads/product/128/933a13c976a9cf7e99e87ec85a33a1a6.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/128" data-formatting="35.00" data-img="/uploads/product/128/933a13c976a9cf7e99e87ec85a33a1a6.png" data-title="ARCH 4" data-price="$19.99" data-formatting-html="$35.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/128"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/128"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=4">
+                Architect            </a>
+            </div>
+    <a href="/templates/Arch4" class="title">
+        ARCH 4    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $19.99            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="84">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/CoralBlue" class="toProfile">
+            <img src="/uploads/product/84/26d2dd8cdf895750ce6048234e9d07cb.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/84" data-formatting="30.00" data-img="/uploads/product/84/26d2dd8cdf895750ce6048234e9d07cb.png" data-title="CORAL BLUE" data-price="$50.00" data-formatting-html="$30.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/84"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/84"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=1">
+                Environment            </a>
+            </div>
+    <a href="/templates/CoralBlue" class="title">
+        CORAL BLUE    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $50.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="115">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Licorice" class="toProfile">
+            <img src="/uploads/product/115/7e64883603b45f7c82ef7f9dd2106740.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/115" data-formatting="40.00" data-img="/uploads/product/115/7e64883603b45f7c82ef7f9dd2106740.png" data-title="LICORICE" data-price="$21.00" data-formatting-html="$40.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/115"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/115"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/Licorice" class="title">
+        LICORICE    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="117">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/SootBlack" class="toProfile">
+            <img src="/uploads/product/117/5633bd1b3264ccdab2949e4dcfae218e.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/117" data-formatting="15.00" data-img="/uploads/product/117/5633bd1b3264ccdab2949e4dcfae218e.png" data-title="SOOT BLACK" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/117"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/117"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/SootBlack" class="title">
+        SOOT BLACK    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="118">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/SardineGreen" class="toProfile">
+            <img src="/uploads/product/118/3aef5543500d2f323310e34add2d660c.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/118" data-formatting="15.00" data-img="/uploads/product/118/3aef5543500d2f323310e34add2d660c.png" data-title="SARDINE GREEN" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/118"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/118"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/SardineGreen" class="title">
+        SARDINE GREEN    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="119">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/FallowBrown" class="toProfile">
+            <img src="/uploads/product/119/3aefe92309257c1c915756187d88e608.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/119" data-formatting="15.00" data-img="/uploads/product/119/3aefe92309257c1c915756187d88e608.png" data-title="FALLOW BROWN" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/119"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/119"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/FallowBrown" class="title">
+        FALLOW BROWN    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="116">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Charcoal" class="toProfile">
+            <img src="/uploads/product/116/b8f7b749bfd4bae257110868a8fa0c4a.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/116" data-formatting="15.00" data-img="/uploads/product/116/b8f7b749bfd4bae257110868a8fa0c4a.png" data-title="CHARCOAL" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/116"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/116"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/Charcoal" class="title">
+        CHARCOAL    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="101">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Med2" class="toProfile">
+            <img src="/uploads/product/101/962e229a284c761730a73973c6929359.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/101" data-formatting="15.00" data-img="/uploads/product/101/962e229a284c761730a73973c6929359.png" data-title="MED 2" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/101"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/101"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=6">
+                Medical            </a>
+            </div>
+    <a href="/templates/Med2" class="title">
+        MED 2    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="76">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/DodgerBlue" class="toProfile">
+            <img src="/uploads/product/76/6d301b22ff4ff5c4f817c17121fe229e.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/76" data-formatting="15.00" data-img="/uploads/product/76/6d301b22ff4ff5c4f817c17121fe229e.png" data-title="DODGER BLUE" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/76"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/76"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=10">
+                Engineering            </a>
+            </div>
+    <a href="/templates/DodgerBlue" class="title">
+        DODGER BLUE    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="88">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Enviro1" class="toProfile">
+            <img src="/uploads/product/88/4b63ad59e909d09f1958a2d6e8e770f0.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/88" data-formatting="15.00" data-img="/uploads/product/88/4b63ad59e909d09f1958a2d6e8e770f0.png" data-title="ENVIRO 1" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/88"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/88"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=1">
+                Environment            </a>
+            </div>
+    <a href="/templates/Enviro1" class="title">
+        ENVIRO 1    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="75">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/EngieGreen" class="toProfile">
+            <img src="/uploads/product/75/436ec64b3c7afdfc653dbe979184132d.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/75" data-formatting="15.00" data-img="/uploads/product/75/436ec64b3c7afdfc653dbe979184132d.png" data-title="ENGIE GREEN" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/75"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/75"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=10">
+                Engineering            </a>
+            </div>
+    <a href="/templates/EngieGreen" class="title">
+        ENGIE GREEN    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="81">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Cardinal" class="toProfile">
+            <img src="/uploads/product/81/4f874bf0fc0fcb0243a3d273a60733ee.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/81" data-formatting="15.00" data-img="/uploads/product/81/4f874bf0fc0fcb0243a3d273a60733ee.png" data-title="CARDINAL" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/81"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/81"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/Cardinal" class="title">
+        CARDINAL    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="80">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Cheffy2" class="toProfile">
+            <img src="/uploads/product/80/ff1363755cda01b851b0b412a6cae2a7.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/80" data-formatting="15.00" data-img="/uploads/product/80/ff1363755cda01b851b0b412a6cae2a7.png" data-title="CHEFFY 2" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/80"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/80"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=5">
+                Chef            </a>
+            </div>
+    <a href="/templates/Cheffy2" class="title">
+        CHEFFY 2    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="99">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/FossilGray" class="toProfile">
+            <img src="/uploads/product/99/c694c947b6f298c58e8bacfdec5e665e.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/99" data-formatting="15.00" data-img="/uploads/product/99/c694c947b6f298c58e8bacfdec5e665e.png" data-title="FOSSIL GRAY" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/99"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/99"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/FossilGray" class="title">
+        FOSSIL GRAY    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="98">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/RavenGreen" class="toProfile">
+            <img src="/uploads/product/98/abf6b2689ea5bf5c02508657b332abcb.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/98" data-formatting="15.00" data-img="/uploads/product/98/abf6b2689ea5bf5c02508657b332abcb.png" data-title="RAVEN GREEN" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/98"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/98"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/RavenGreen" class="title">
+        RAVEN GREEN    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="100">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/MayaBlue" class="toProfile">
+            <img src="/uploads/product/100/f03fce01a94cb1d05cab33a2241f7276.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/100" data-formatting="15.00" data-img="/uploads/product/100/f03fce01a94cb1d05cab33a2241f7276.png" data-title="MAYA BLUE" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/100"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/100"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/MayaBlue" class="title">
+        MAYA BLUE    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="110">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/JadeBalck" class="toProfile">
+            <img src="/uploads/product/110/888b3d0e2e121ae348af849d34622cb7.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/110" data-formatting="15.00" data-img="/uploads/product/110/888b3d0e2e121ae348af849d34622cb7.png" data-title="JADE BLACK" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/110"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/110"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/JadeBalck" class="title">
+        JADE BLACK    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="102">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/HarborGray" class="toProfile">
+            <img src="/uploads/product/102/2bf2322f87abab52b7a62ce562763f00.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/102" data-formatting="15.00" data-img="/uploads/product/102/2bf2322f87abab52b7a62ce562763f00.png" data-title="HARBOR GRAY" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/102"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/102"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=1">
+                Environment            </a>
+            </div>
+    <a href="/templates/HarborGray" class="title">
+        HARBOR GRAY    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="106">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/DijonBrown" class="toProfile">
+            <img src="/uploads/product/106/02631bcc3ba46ff4ee40b37f5d6ccbf2.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/106" data-formatting="15.00" data-img="/uploads/product/106/02631bcc3ba46ff4ee40b37f5d6ccbf2.png" data-title="DIJON BROWN" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/106"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/106"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/DijonBrown" class="title">
+        DIJON BROWN    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="109">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/SimplyBlack" class="toProfile">
+            <img src="/uploads/product/109/f367eeac9c4072a1e7851ef900845a42.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/109" data-formatting="15.00" data-img="/uploads/product/109/f367eeac9c4072a1e7851ef900845a42.png" data-title="SIMPLY BLACK" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/109"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/109"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/SimplyBlack" class="title">
+        SIMPLY BLACK    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="114">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/SimplyBlack3" class="toProfile">
+            <img src="/uploads/product/114/3059c59eaac71cf11b3bc0fe3133cd46.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/114" data-formatting="15.00" data-img="/uploads/product/114/3059c59eaac71cf11b3bc0fe3133cd46.png" data-title="SIMPLY BLACK 3" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/114"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/114"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/SimplyBlack3" class="title">
+        SIMPLY BLACK 3    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="111">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/CiderBlack" class="toProfile">
+            <img src="/uploads/product/111/e887581a39a0fc60dd41c93d13490499.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/111" data-formatting="15.00" data-img="/uploads/product/111/e887581a39a0fc60dd41c93d13490499.png" data-title="CIDER BLACK" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/111"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/111"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/CiderBlack" class="title">
+        CIDER BLACK    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="113">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Obsidion" class="toProfile">
+            <img src="/uploads/product/113/ee5318e40d879e1b1c3c50b99363e1d8.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/113" data-formatting="15.00" data-img="/uploads/product/113/ee5318e40d879e1b1c3c50b99363e1d8.png" data-title="OBSIDION" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/113"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/113"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/Obsidion" class="title">
+        OBSIDION    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="112">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/SimplyBlack2" class="toProfile">
+            <img src="/uploads/product/112/67a7d48e33d1a79cfb85f48fa4fa689d.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/112" data-formatting="15.00" data-img="/uploads/product/112/67a7d48e33d1a79cfb85f48fa4fa689d.png" data-title="SIMPLY BLACK 2" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/112"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/112"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=3">
+                Generic            </a>
+            </div>
+    <a href="/templates/SimplyBlack2" class="title">
+        SIMPLY BLACK 2    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+</div>                    </div>
+                </div>
+            </div>
+        </section>
+        <div class="progressBar"></div>
+    </div>
+
+
+    <script>
+        var scrollToLastPos = true;
+    </script>
+
+<div class="menu">
+    <div class="wrapper">
+        <div class="menuContent">
+            <a href="/" class="logo">
+                <img src="/assets/d44acf32/img/logo.svg" class="svg">
+            </a>
+            <div class="outer">
+                <div class="inner">
+                    <nav>
+                        <ul>
+                            <li>
+                                <a href="/">
+                                    <div>Homepage</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/templates">
+                                    <div>Templates</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/cvcontent">
+                                    <div>CV content</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/contact">
+                                    <div>Contact us</div>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="terms-links">
+                            <a href="/policy">
+                                <div>Privacy Policy</div>
+                            </a>
+                            <a href="/terms">
+                                <div>Terms & Conditions</div>
+                            </a>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <a href="http://zipl.pro/" target="_blank" class="zipl">
+                <span>
+                    Created by <img src="/assets/d44acf32/img/zipl.svg" class="svg">
+                </span>
+            </a>
+        </div>
+        
+
+<div class="newestTemplateWrapper">
+    <div class="outer">
+        <div class="inner">
+            <div class="label">
+                <div>
+                    
+                </div>
+            </div>
+            <div class="templateImage">
+                <a href="/templates/SapphireBlue">
+                    <img src="/uploads/product/74/6e1d7f0fa3e1e92dbb5c618c5349d4a7.png">
+                </a>
+            </div>
+            <a href="/templates/SapphireBlue" class="exploreBtn">
+                <div>
+                    Explore
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+
+<footer>
+    <div class="copyright">
+        <span>ICV Templates</span> © 2023. All rights reserved.
+    </div>
+    <div class="snWrapper">
+        <a href="#" class="snTrigger">
+            <img src="/assets/d44acf32/img/share.svg" class="svg">
+        </a>
+        <div class="snLinks">
+            <div class="mobileSection">
+                <div>
+                    Social networks:
+                </div>
+
+                <a target="_blank" href="https://www.instagram.com/icv_templates/">
+                    <img src="/assets/d44acf32/img/insta.svg" class="svg" height="16">
+                </a>
+                <a target="_blank" href="https://www.facebook.com/icv.templates.5">
+                    <img src="/assets/d44acf32/img/Facebook.svg" class="svg" height="16">
+                </a>
+                <a target="_blank" href="https://twitter.com/IcvTemplates">
+                    <img src="/assets/d44acf32/img/Shape.svg" class="svg" height="13">
+                </a>
+            </div>
+                        <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://icvtemplates.com/templates?back=1">
+                <img src="/assets/d44acf32/img/LinkedIn.svg" class="svg" height="15">
+            </a>
+            <a target="_blank" href="http://www.twitter.com/share?url=https://icvtemplates.com/templates?back=1">
+                <img src="/assets/d44acf32/img/Shape.svg" class="svg" height="13">
+            </a>
+            <a target="_blank" href="http://www.facebook.com/sharer.php?u=https://icvtemplates.com/templates?back=1">
+                <img src="/assets/d44acf32/img/Facebook.svg" class="svg" height="16">
+            </a>
+        </div>
+    </div>
+</footer>
+
+
+<div class="preloader">
+
+    <div class="outer">
+        <div class="inner">
+            <div id="circle"></div>
+
+            <div class="percentage">
+            </div>
+
+            <div class="text">
+                <div>
+                    <div>
+                        <div>
+                            WELCOME TO
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            ICV TEMPLATES
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div>
+                        <div>
+                            LOADING
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            THE ART OF CV
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div>
+                        <div>
+                            YOU’RE ALL SET
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="notify">
+    <div></div>
+</div>
+
+<div class="addFormattingPopup">
+    <div class="outer">
+        <div class="inner">
+            <div class="wrapper">
+                <div class="productInfo">
+                    <div class="infoWrapper">
+                        <div class="imgWrapper">
+                            <img>
+                        </div>
+                        <div class="title"></div>
+                    </div>
+                    <div class="price"></div>
+                </div>
+                                    <div class="formattingInfo main">
+                        <div class="checkboxWrapper">
+                            <input type="checkbox" id="formatting_cb">
+                            <label for="formatting_cb">Add formatting services</label>
+                        </div>
+                        <div class="price">
+                            + <span class="value"></span>
+                        </div>
+                        <div class="hint">
+                            <p>+ Format your CV data into our template<br />
+                            + Delivery Time 3 - 5 days<br />
+                            + Formatting Price is for upto 5 pages max<br />
+                              (Additional $10 per page will be applicable) 
+                            </p>
+                        </div>
+                    </div>
+                                <div class="formattingInfo">
+                    <div class="checkboxWrapper">
+                        <div>Restricted features</div>
+                    </div>
+                    <div class="icon">
+                        <a href="https://www.youtube.com/watch?v=3nFLrju8OUo&feature=youtu.be" target="_blank">
+                            <img src="/assets/d44acf32/img/feature4.svg">
+                        </a>
+                    </div>
+                    <div class="hint block">
+                        Click on video icon to watch the features that are restricted in the Word file. 
+                    </div>
+                </div>
+                <div class="actionsWrapper">
+                    <a href="#" class="cancelBtn">
+                        Cancel
+                    </a>
+                    <a href="#" class="toCartBtn formatting">
+                        Proceed to Buy
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="error popupIE">
+
+    <div class="inner">
+        <img src="/assets/d44acf32/img/ie.png" class="ieImg">
+        <div class="title">Not compatible<br>
+            with Internet Explorer
+        </div>
+        <div class="desc">
+            We recommend to open this<br>
+            website with Google Chrome
+        </div>
+        <a href="https://www.google.ru/chrome/browser/" target="_blank" class="btn">
+            Download Chrome
+        </a>
+    </div>
+
+</section>
+
+<script src="/assets/220d0582/jquery.js?v=1430236984"></script>
+<script src="/assets/2e3e25d2/yii.js?v=1438812030"></script>
+<script src="/assets/d44acf32/js/libs/jquery.fullPage.min.js?v=1519413586"></script>
+<script src="/assets/d44acf32/js/libs/svgConvert.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery-ui.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery.easing.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery.cookie.js?v=1519413586"></script>
+<script src="/assets/d44acf32/js/libs/isIE.js?v=1519413586"></script>
+<script src="/assets/d44acf32/js/libs/modernizr.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery.mobile.custom.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/compare.js?v=1498237082"></script>
+<script src="/assets/d44acf32/js/libs/perfect-scrollbar.jquery.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/swiper.jquery.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/jpreloader.js?v=1498470334"></script>
+<script src="/assets/d44acf32/js/libs/circle-progress.min.js?v=1498470334"></script>
+<script src="https://www.paypalobjects.com/api/checkout.js"></script>
+<script src="/assets/d44acf32/js/main.js?v=1581956400"></script>
+<script src="/assets/2e3e25d2/yii.activeForm.js?v=1438812030"></script>
+<script src="/assets/da206a23/jquery.scrollPager.js?v=1519957274"></script>
+<script src="/assets/3dbe2cd2/jquery.pjax.js?v=1498045698"></script>
+<script type="text/javascript">jQuery(document).ready(function () {
+jQuery('#filter-form').yiiActiveForm([], []);
+$('.list-view').scrollPager({"wrapper":".list-view","pagination":".pagination","next":".pagination .next a:first","bufferPx":150,"pjax":{"container":"#w0"},"item":".item","animate":false});
+jQuery('#cart-form').yiiActiveForm([], []);
+});</script></body>
+</html>
+

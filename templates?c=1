@@ -1,0 +1,1282 @@
+
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/assets/d44acf32/img/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/assets/d44acf32/img/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/assets/d44acf32/img/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/assets/d44acf32/img/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/assets/d44acf32/img/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/d44acf32/img/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/d44acf32/img/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/assets/d44acf32/img/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/d44acf32/img/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/assets/d44acf32/img/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/d44acf32/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/assets/d44acf32/img/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/d44acf32/img/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/assets/d44acf32/img/favicons/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/assets/d44acf32/img/favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <title>ICV Template Store</title>
+
+    <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="am9xRFRhZXgbNjY0CwxVG0cuQywCICZVOwQFLD4FLjUMXUcGJj4TEQ==">
+    <link href="https://fonts.googleapis.com/css?family=Assistant:400,700|Poppins:500,600,700" rel="stylesheet">
+<link href="/assets/d44acf32/css/jquery.fullPage.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/jquery-ui.min.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/compare.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/perfect-scrollbar.min.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/swiper.min.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/style.css?v=1581956400" rel="stylesheet">
+<link href="/assets/d44acf32/css/responsive.css?v=1580740126" rel="stylesheet">
+<link href="/assets/da206a23/jquery.scrollPager.css?v=1498045962" rel="stylesheet">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-165746097-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-165746097-1');
+</script>
+
+<!-- Hotjar Tracking Code for https://icvtemplates.com/ -->
+
+<script>
+
+    (function(h,o,t,j,a,r){
+
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+
+        h._hjSettings={hjid:1799918,hjsv:6};
+
+        a=o.getElementsByTagName('head')[0];
+
+        r=o.createElement('script');r.async=1;
+
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+
+        a.appendChild(r);
+
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+
+</script>
+</head>
+<body class="beforePreload ">
+
+
+<div class="cartWrapper">
+    
+
+
+    <form id="cart-form" action="/templates?c=1" method="post" data-pjax>
+<input type="hidden" name="_csrf" value="am9xRFRhZXgbNjY0CwxVG0cuQywCICZVOwQFLD4FLjUMXUcGJj4TEQ==">    <div class="countWrapper">
+        <div>
+            Your Cart: 40 items        </div>
+    </div>
+    <div class="itemsWrapper">
+        <div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $35.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/66"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Arch1">
+                            <img src="/uploads/product/66/7e9a6bc3d484a1dc4b3ce7bbff386016.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $35.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/68"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Arch2">
+                            <img src="/uploads/product/68/7cfc8ffa8ff0d505b2cd018fc1845880.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/69"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Aircrew1">
+                            <img src="/uploads/product/69/ad1899e807e3603db9975e6247fc73a9.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/70"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Procure">
+                            <img src="/uploads/product/70/62579b536deddd51661a9a5a0f0655bf.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $19.99 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/71"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/ForestGreen">
+                            <img src="/uploads/product/71/461ea3defee4aa44371c9ba09d6fe84a.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $45.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/72"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Arch3">
+                            <img src="/uploads/product/72/1212233d8421d3150d9994306ddc0a67.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $25.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/73"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Cobalt">
+                            <img src="/uploads/product/73/25ce04bfcb370aaba93b3904bc7d7c0f.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $60.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/74"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/SapphireBlue">
+                            <img src="/uploads/product/74/6e1d7f0fa3e1e92dbb5c618c5349d4a7.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $19.99 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/77"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/lavishBlack">
+                            <img src="/uploads/product/77/ed43dd7ab97b75898b0789c00e4c574b.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/78"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/RubyDesgin">
+                            <img src="/uploads/product/78/f864ea88b7acad59eedd05b5745c52fb.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $25.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/79"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Cheffy1">
+                            <img src="/uploads/product/79/005df54fba1b3826e4f1b7dc52ef6bce.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $19.99 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/82"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Emerald">
+                            <img src="/uploads/product/82/9a0bbcb9d71502c07f580fdb0c8e933b.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/83"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/MediumBlue">
+                            <img src="/uploads/product/83/9ecd2c3aa0c0c8dad3c9e3c0d0124d56.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $50.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/84"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/CoralBlue">
+                            <img src="/uploads/product/84/26d2dd8cdf895750ce6048234e9d07cb.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $30.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/85"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Crossfit">
+                            <img src="/uploads/product/85/75c9f78e00fc3329c1d347e99d6736f9.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/86"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/ParisGreen">
+                            <img src="/uploads/product/86/6ef4717e56b95f48b38661cf3ed9efdf.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/87"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Voiletred">
+                            <img src="/uploads/product/87/820ea9cc185948a6ccbca92633ac7dd1.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/89"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/CedarGreen">
+                            <img src="/uploads/product/89/99e2a94a09aa61d4d5568c6fe7217d5e.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/90"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/PTRAINER">
+                            <img src="/uploads/product/90/53b6b011a0607a2afda53188e511fa0b.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $45.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/91"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/WhiteSmoke">
+                            <img src="/uploads/product/91/ad407273b7e82c9002eab49b89fff10e.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $19.99 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/92"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/NavajoWhite">
+                            <img src="/uploads/product/92/db5a6dfbfaf38b18f8bdd06bdec7c305.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $19.99 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/93"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/MintGreen">
+                            <img src="/uploads/product/93/86d874e5021aeab0778d60aefed61f12.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $35.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/94"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/UmberForest">
+                            <img src="/uploads/product/94/e39f3b6a1be25239ab4924c655c24481.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $19.99 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/95"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Chartresuse">
+                            <img src="/uploads/product/95/d0c231675ad718c0029402b8be3cefff.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $45.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/96"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Azure">
+                            <img src="/uploads/product/96/f8ff7f72af0c46ccdfbdb4527febbe3e.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/97"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/ApricotOrange">
+                            <img src="/uploads/product/97/3b89823ac732acd41e4267e9799966c4.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $50.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/103"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/BlackWidow">
+                            <img src="/uploads/product/103/fa3ec327222788f1940a507311b216d0.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $25.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/105"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Med1">
+                            <img src="/uploads/product/105/f9bb4d76e820c8ebe07b82786dea3c76.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $45.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/107"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/MonarchGray">
+                            <img src="/uploads/product/107/b2486cfc340cf85d5dba421e12c76eee.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/108"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/WoodBlack">
+                            <img src="/uploads/product/108/746f16410c8830198794e9278450baae.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/120"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Edu1">
+                            <img src="/uploads/product/120/2ab4763fda8c2f672810b21f00e46239.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/121"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Edu2">
+                            <img src="/uploads/product/121/2a52e60d773422a1d1b143a4f91d73b7.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/122"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Smoky">
+                            <img src="/uploads/product/122/78ad1be14fc3116b666b50df56f416cd.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/123"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/IronGray">
+                            <img src="/uploads/product/123/eaf068abbe5fccb921e2d74a02e65570.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/124"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/LimeGreen">
+                            <img src="/uploads/product/124/b14ce36be6c9235313cc887e9384ee17.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/125"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Medallion">
+                            <img src="/uploads/product/125/1afadcfaa377370301e2c872aaaafe10.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $19.99 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/126"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Daffodil">
+                            <img src="/uploads/product/126/0009e999d830edc34ef522781a2a4940.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/127"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/FrenchBlue">
+                            <img src="/uploads/product/127/13e870c44ae991907cf528dbb59aa69b.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $19.99 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/128"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Arch4">
+                            <img src="/uploads/product/128/933a13c976a9cf7e99e87ec85a33a1a6.png">
+                        </a>
+                    </div>
+                </div>
+                                            <div class="item">
+                    <div>
+                        <div class="price">
+                            $21.00 <span
+                                    class="formattingPriceWrapper"></span>
+                        </div>
+                        <a href="/cart/delete/129"
+                           class="removeBtn removeFromCart">
+                            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+                        </a>
+                    </div>
+                    <div class="imgWrapper">
+                        <a href="/templates/Denim">
+                            <img src="/uploads/product/129/d0c85860f1964f5e057a7b03bf8043ef.png">
+                        </a>
+                    </div>
+                </div>
+                    </div>
+    </div>
+    <div class="actionWrapper">
+        <div class="total">
+            <div>
+                Total: <span>$1087.92</span>
+            </div>
+        </div>
+        <div class="btnWrapper">
+            <div>
+                <a href="/checkout/index" class="buyBtn">
+                    Buy
+                </a>
+            </div>
+        </div>
+    </div>
+    </form></div>
+<div class="cartOverlay"></div>
+
+
+<header>
+    <a href="/" class="logoWrapper">
+        <img src="/assets/d44acf32/img/logo.svg" alt="logo" class="svg">
+    </a>
+    <div class="actionBtnWrapper">
+                    <a href="/wishlist" class="wishlistTrigger">
+                <img src="/assets/d44acf32/img/Favoritemenu.svg" class="svg stroke">
+            </a>
+                <!--        <a href="#">-->
+        <!--            <img src="--><!--/img/template.svg" class="svg stroke">-->
+        <!--        </a>-->
+        <a href="#" class="cartTrigger">
+            <img src="/assets/d44acf32/img/bag.svg" class="svg">
+                        <span class="counter">40</span>
+        </a>
+        <a href="#" class="menuTrigger">
+            <img src="/assets/d44acf32/img/menu.svg" class="svg stroke">
+        </a>
+    </div>
+</header>
+
+
+
+    <div class="mainWrapper templatesWrapper">
+
+        <div class="categoryTitle">
+            <div class="rotateWrapper">
+                <div class="name">
+                    <div>
+                        Environment                        <span class="count">(3                            )</span>
+                    </div>
+                </div>
+                <a href="#" class="changeBtn">
+                    <div>
+                        Change profession
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="scrollHint">
+            <div class="rotateWrapper">
+                <div>
+                    Scroll down
+                </div>
+            </div>
+        </div>
+
+        <section class="templatesStart fullHeight">
+            <div class="outer">
+                <div class="inner">
+                    <h1 class="title">
+                        <div>
+                            <div>ICV</div>
+                        </div>
+                        <div>
+                            <div>Template</div>
+                        </div>
+                        <div>
+                            <div>store</div>
+                        </div>
+                    </h1>
+                    <div class="counter">
+                        <div>
+                            60+ templates
+                        </div>
+                    </div>
+                    <div class="hint">
+                        <div>
+                            Scroll down to look at all templates<br>
+                            or choose your profession below:
+                        </div>
+                    </div>
+                    <form id="filter-form" action="/templates" method="get">
+                    <div class="mainSelectWrapper">
+                        <!--                    <div class="selectHolder">-->
+                        <select id="c" class="categorySelect" name="c">
+<option value="">All (62)</option>
+<option value="3">Generic (39)</option>
+<option value="1" selected>Environment (3)</option>
+<option value="2">Fitness (2)</option>
+<option value="4">Architect (4)</option>
+<option value="5">Chef (2)</option>
+<option value="6">Medical (2)</option>
+<option value="7">Cabin Crew (1)</option>
+<option value="8">Teacher (2)</option>
+<option value="9">Purchase (1)</option>
+<option value="10">Engineering (2)</option>
+<option value="11">Graphic Designer (1)</option>
+<option value="12">Sale &amp; Marketing (2)</option>
+<option value="13">Accounting &amp; Finance (1)</option>
+</select>                        <!--                    </div>-->
+
+                        <div class="autocompleteWrapper"></div>
+                    </div>
+                    <div class="btnWrapper">
+                        <a href="#" class="scrollTrigger">
+                            Let's scroll
+                        </a>
+                    </div>
+
+
+                    </form>                </div>
+            </div>
+        </section>
+        <section class="templatesList scrollPager">
+            <div class="wrapper">
+                <div class="categoryName">
+                    Environment:
+                </div>
+                <div class="templatesListWrapper">
+                    <div id="w0">                    <div id="w1" class="list-view">
+<div class="item templateItem" data-key="84">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/CoralBlue" class="toProfile">
+            <img src="/uploads/product/84/26d2dd8cdf895750ce6048234e9d07cb.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/84" data-formatting="30.00" data-img="/uploads/product/84/26d2dd8cdf895750ce6048234e9d07cb.png" data-title="CORAL BLUE" data-price="$50.00" data-formatting-html="$30.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/84"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/84"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=1">
+                Environment            </a>
+            </div>
+    <a href="/templates/CoralBlue" class="title">
+        CORAL BLUE    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $50.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="88">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/Enviro1" class="toProfile">
+            <img src="/uploads/product/88/4b63ad59e909d09f1958a2d6e8e770f0.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/88" data-formatting="15.00" data-img="/uploads/product/88/4b63ad59e909d09f1958a2d6e8e770f0.png" data-title="ENVIRO 1" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/88"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/88"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=1">
+                Environment            </a>
+            </div>
+    <a href="/templates/Enviro1" class="title">
+        ENVIRO 1    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="item templateItem" data-key="102">
+
+<div class="imgWrapper">
+    <div class="imgBlock">
+        <a href="/templates/HarborGray" class="toProfile">
+            <img src="/uploads/product/102/2bf2322f87abab52b7a62ce562763f00.png" alt="Tempalte 1">        </a>
+        <a class="toCartBtn" href="/cart/add/102" data-formatting="15.00" data-img="/uploads/product/102/2bf2322f87abab52b7a62ce562763f00.png" data-title="HARBOR GRAY" data-price="$21.00" data-formatting-html="$15.00">Add to cart</a>        <a class="toWishlist" href="/product/wish/102"><img src="/assets/d44acf32/img/Favorite.svg" class="svg "></a>        <a class="fromWishlist hidden" href="/product/unwish/102"><img src="/assets/d44acf32/img/like_cross.svg" class="svg "></a>    </div>
+</div>
+<div class="allInfoWrapper">
+    <div class="categories">
+                    <a href="/templates?c=1">
+                Environment            </a>
+            </div>
+    <a href="/templates/HarborGray" class="title">
+        HARBOR GRAY    </a>
+    <div class="infoWrapper">
+        <div class="ratingWrapper">
+            <div class="label">
+                Rating:
+            </div>
+            <div class="rating">
+                                    <span class=""></span>
+                                    <span class="active"></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                                    <span class=""></span>
+                            </div>
+        </div>
+        <div class="priceWrapper">
+            <div class="label currency">
+                USD
+            </div>
+            <div class="value">
+                $21.00            </div>
+        </div>
+    </div>
+</div>
+</div>
+</div>                    </div>
+                </div>
+            </div>
+        </section>
+        <div class="progressBar"></div>
+    </div>
+
+
+
+<div class="menu">
+    <div class="wrapper">
+        <div class="menuContent">
+            <a href="/" class="logo">
+                <img src="/assets/d44acf32/img/logo.svg" class="svg">
+            </a>
+            <div class="outer">
+                <div class="inner">
+                    <nav>
+                        <ul>
+                            <li>
+                                <a href="/">
+                                    <div>Homepage</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/templates">
+                                    <div>Templates</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/cvcontent">
+                                    <div>CV content</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/contact">
+                                    <div>Contact us</div>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="terms-links">
+                            <a href="/policy">
+                                <div>Privacy Policy</div>
+                            </a>
+                            <a href="/terms">
+                                <div>Terms & Conditions</div>
+                            </a>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <a href="http://zipl.pro/" target="_blank" class="zipl">
+                <span>
+                    Created by <img src="/assets/d44acf32/img/zipl.svg" class="svg">
+                </span>
+            </a>
+        </div>
+        
+
+<div class="newestTemplateWrapper">
+    <div class="outer">
+        <div class="inner">
+            <div class="label">
+                <div>
+                    
+                </div>
+            </div>
+            <div class="templateImage">
+                <a href="/templates/SapphireBlue">
+                    <img src="/uploads/product/74/6e1d7f0fa3e1e92dbb5c618c5349d4a7.png">
+                </a>
+            </div>
+            <a href="/templates/SapphireBlue" class="exploreBtn">
+                <div>
+                    Explore
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+
+<footer>
+    <div class="copyright">
+        <span>ICV Templates</span> © 2023. All rights reserved.
+    </div>
+    <div class="snWrapper">
+        <a href="#" class="snTrigger">
+            <img src="/assets/d44acf32/img/share.svg" class="svg">
+        </a>
+        <div class="snLinks">
+            <div class="mobileSection">
+                <div>
+                    Social networks:
+                </div>
+
+                <a target="_blank" href="https://www.instagram.com/icv_templates/">
+                    <img src="/assets/d44acf32/img/insta.svg" class="svg" height="16">
+                </a>
+                <a target="_blank" href="https://www.facebook.com/icv.templates.5">
+                    <img src="/assets/d44acf32/img/Facebook.svg" class="svg" height="16">
+                </a>
+                <a target="_blank" href="https://twitter.com/IcvTemplates">
+                    <img src="/assets/d44acf32/img/Shape.svg" class="svg" height="13">
+                </a>
+            </div>
+                        <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://icvtemplates.com/templates?c=1">
+                <img src="/assets/d44acf32/img/LinkedIn.svg" class="svg" height="15">
+            </a>
+            <a target="_blank" href="http://www.twitter.com/share?url=https://icvtemplates.com/templates?c=1">
+                <img src="/assets/d44acf32/img/Shape.svg" class="svg" height="13">
+            </a>
+            <a target="_blank" href="http://www.facebook.com/sharer.php?u=https://icvtemplates.com/templates?c=1">
+                <img src="/assets/d44acf32/img/Facebook.svg" class="svg" height="16">
+            </a>
+        </div>
+    </div>
+</footer>
+
+
+<div class="preloader">
+
+    <div class="outer">
+        <div class="inner">
+            <div id="circle"></div>
+
+            <div class="percentage">
+            </div>
+
+            <div class="text">
+                <div>
+                    <div>
+                        <div>
+                            WELCOME TO
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            ICV TEMPLATES
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div>
+                        <div>
+                            LOADING
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            THE ART OF CV
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div>
+                        <div>
+                            YOU’RE ALL SET
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="notify">
+    <div></div>
+</div>
+
+<div class="addFormattingPopup">
+    <div class="outer">
+        <div class="inner">
+            <div class="wrapper">
+                <div class="productInfo">
+                    <div class="infoWrapper">
+                        <div class="imgWrapper">
+                            <img>
+                        </div>
+                        <div class="title"></div>
+                    </div>
+                    <div class="price"></div>
+                </div>
+                                    <div class="formattingInfo main">
+                        <div class="checkboxWrapper">
+                            <input type="checkbox" id="formatting_cb">
+                            <label for="formatting_cb">Add formatting services</label>
+                        </div>
+                        <div class="price">
+                            + <span class="value"></span>
+                        </div>
+                        <div class="hint">
+                            <p>+ Format your CV data into our template<br />
+                            + Delivery Time 3 - 5 days<br />
+                            + Formatting Price is for upto 5 pages max<br />
+                              (Additional $10 per page will be applicable) 
+                            </p>
+                        </div>
+                    </div>
+                                <div class="formattingInfo">
+                    <div class="checkboxWrapper">
+                        <div>Restricted features</div>
+                    </div>
+                    <div class="icon">
+                        <a href="https://www.youtube.com/watch?v=3nFLrju8OUo&feature=youtu.be" target="_blank">
+                            <img src="/assets/d44acf32/img/feature4.svg">
+                        </a>
+                    </div>
+                    <div class="hint block">
+                        Click on video icon to watch the features that are restricted in the Word file. 
+                    </div>
+                </div>
+                <div class="actionsWrapper">
+                    <a href="#" class="cancelBtn">
+                        Cancel
+                    </a>
+                    <a href="#" class="toCartBtn formatting">
+                        Proceed to Buy
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="error popupIE">
+
+    <div class="inner">
+        <img src="/assets/d44acf32/img/ie.png" class="ieImg">
+        <div class="title">Not compatible<br>
+            with Internet Explorer
+        </div>
+        <div class="desc">
+            We recommend to open this<br>
+            website with Google Chrome
+        </div>
+        <a href="https://www.google.ru/chrome/browser/" target="_blank" class="btn">
+            Download Chrome
+        </a>
+    </div>
+
+</section>
+
+<script src="/assets/220d0582/jquery.js?v=1430236984"></script>
+<script src="/assets/2e3e25d2/yii.js?v=1438812030"></script>
+<script src="/assets/d44acf32/js/libs/jquery.fullPage.min.js?v=1519413586"></script>
+<script src="/assets/d44acf32/js/libs/svgConvert.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery-ui.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery.easing.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery.cookie.js?v=1519413586"></script>
+<script src="/assets/d44acf32/js/libs/isIE.js?v=1519413586"></script>
+<script src="/assets/d44acf32/js/libs/modernizr.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery.mobile.custom.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/compare.js?v=1498237082"></script>
+<script src="/assets/d44acf32/js/libs/perfect-scrollbar.jquery.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/swiper.jquery.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/jpreloader.js?v=1498470334"></script>
+<script src="/assets/d44acf32/js/libs/circle-progress.min.js?v=1498470334"></script>
+<script src="https://www.paypalobjects.com/api/checkout.js"></script>
+<script src="/assets/d44acf32/js/main.js?v=1581956400"></script>
+<script src="/assets/2e3e25d2/yii.activeForm.js?v=1438812030"></script>
+<script src="/assets/da206a23/jquery.scrollPager.js?v=1519957274"></script>
+<script src="/assets/3dbe2cd2/jquery.pjax.js?v=1498045698"></script>
+<script type="text/javascript">jQuery(document).ready(function () {
+jQuery('#filter-form').yiiActiveForm([], []);
+$('.list-view').scrollPager({"wrapper":".list-view","pagination":".pagination","next":".pagination .next a:first","bufferPx":150,"pjax":{"container":"#w0"},"item":".item","animate":false});
+jQuery('#cart-form').yiiActiveForm([], []);
+});</script></body>
+</html>
+

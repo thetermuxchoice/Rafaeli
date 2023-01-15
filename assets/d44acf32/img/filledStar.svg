@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="23px" viewBox="0 0 25 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="100%" y1="75.7294004%" x2="0%" y2="24.2389356%" id="linearGradient-1">
+            <stop stop-color="#FBAB7E" offset="0%"></stop>
+            <stop stop-color="#F7CE68" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Style-guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI" transform="translate(-241.000000, -495.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-Copy" transform="translate(50.000000, 495.000000)">
+                <polygon id="Star-Copy-2" points="203.5 18.75 196.152684 22.6127124 197.555897 14.4313562 191.611794 8.63728757 199.826342 7.44364379 203.5 0 207.173658 7.44364379 215.388206 8.63728757 209.444103 14.4313562 210.847316 22.6127124"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

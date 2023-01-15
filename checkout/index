@@ -1,0 +1,271 @@
+
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/assets/d44acf32/img/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/assets/d44acf32/img/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/assets/d44acf32/img/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/assets/d44acf32/img/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/assets/d44acf32/img/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/d44acf32/img/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/d44acf32/img/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/assets/d44acf32/img/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/d44acf32/img/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/assets/d44acf32/img/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/d44acf32/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/assets/d44acf32/img/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/d44acf32/img/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/assets/d44acf32/img/favicons/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/assets/d44acf32/img/favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <title>ICV | Checkout</title>
+
+    <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="UkdOaHg2ekgjHgkYJ1tKK38GfAAudzllAyw6ABJSMQU0dXgqCmkMIQ==">
+    <link href="https://fonts.googleapis.com/css?family=Assistant:400,700|Poppins:500,600,700" rel="stylesheet">
+<link href="/assets/d44acf32/css/jquery.fullPage.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/jquery-ui.min.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/compare.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/perfect-scrollbar.min.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/swiper.min.css?v=1498043791" rel="stylesheet">
+<link href="/assets/d44acf32/css/style.css?v=1581956400" rel="stylesheet">
+<link href="/assets/d44acf32/css/responsive.css?v=1580740126" rel="stylesheet">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-165746097-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-165746097-1');
+</script>
+
+<!-- Hotjar Tracking Code for https://icvtemplates.com/ -->
+
+<script>
+
+    (function(h,o,t,j,a,r){
+
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+
+        h._hjSettings={hjid:1799918,hjsv:6};
+
+        a=o.getElementsByTagName('head')[0];
+
+        r=o.createElement('script');r.async=1;
+
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+
+        a.appendChild(r);
+
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+
+</script>
+</head>
+<body class="beforePreload ">
+
+
+<div class="checkoutWrapper">
+    <div class="wrapper">
+
+        <a href="https://icvtemplates.com/templates?c=4" class="closeCheckout">
+            Close checkout page
+            <img src="/assets/d44acf32/img/cross.svg" class="svg">
+        </a>
+
+        <h1 class="title">
+            Checkout
+        </h1>
+
+        <nav>
+            <a href="/checkout/index" class="disabled">
+                Basic info
+            </a>
+
+            <a href="/checkout/billing" class="disabled">
+                Billing info
+            </a>
+
+            <a href="/checkout/confirm" class="disabled">
+                Confirmation
+            </a>
+        </nav>
+
+    </div>
+
+    
+
+<form id="w0" action="/checkout/index" method="post" enctype="multipart/form-data">
+<input type="hidden" name="_csrf" value="UkdOaHg2ekgjHgkYJ1tKK38GfAAudzllAyw6ABJSMQU0dXgqCmkMIQ==">    <div class="formWrapper">
+
+        <div class="form-group field-checkoutform-user_first_name required">
+<label class="control-label" for="checkoutform-user_first_name">First name*</label>
+<input type="text" id="checkoutform-user_first_name" class="form-control" name="CheckoutForm[user_first_name]">
+
+<div class="help-block"></div>
+</div>        <div class="form-group field-checkoutform-user_last_name required">
+<label class="control-label" for="checkoutform-user_last_name">Last name*</label>
+<input type="text" id="checkoutform-user_last_name" class="form-control" name="CheckoutForm[user_last_name]">
+
+<div class="help-block"></div>
+</div>        <div class="form-group field-checkoutform-user_email required">
+<label class="control-label" for="checkoutform-user_email">Email*</label>
+<input type="text" id="checkoutform-user_email" class="form-control" name="CheckoutForm[user_email]">
+
+<div class="help-block"></div>
+</div>        <div class="form-group field-checkoutform-user_phone_number">
+<label class="control-label" for="checkoutform-user_phone_number">Phone</label>
+<input type="text" id="checkoutform-user_phone_number" class="form-control" name="CheckoutForm[user_phone_number]">
+
+<div class="help-block"></div>
+</div>        <div class="form-group fieldWithHint cvName field-checkoutform-name_on_cv required">
+<label class="control-label" for="checkoutform-name_on_cv">Name That will appear on CV*</label>
+<input type="text" id="checkoutform-name_on_cv" class="form-control" name="CheckoutForm[name_on_cv]">
+
+<div class="help-block"></div>
+</div>        <div class="form-group field-checkoutform-country">
+<label class="control-label" for="checkoutform-country">Country</label>
+<input type="text" id="checkoutform-country" class="form-control" name="CheckoutForm[country]">
+
+<div class="help-block"></div>
+</div>
+        
+        <div class="form-group full field-checkoutform-notes">
+<label class="control-label" for="checkoutform-notes">Note</label>
+<textarea id="checkoutform-notes" class="form-control" name="CheckoutForm[notes]"></textarea>
+
+<div class="help-block"></div>
+</div>
+        <div class="form-group full payment-method-list hidden field-checkoutform-payment_key">
+<label class="control-label" for="checkoutform-payment_key">Choose a payment method:</label>
+<input type="hidden" name="CheckoutForm[payment_key]" value=""><div id="checkoutform-payment_key"><label><input type="radio" name="CheckoutForm[payment_key]" value="1"> %paypal_payment_img%</label>
+<label><input type="radio" name="CheckoutForm[payment_key]" value="0" checked> %card_payment_img%</label></div>
+
+<div class="help-block"></div>
+</div>
+    </div>
+    <div class="submitWrapper">
+        <button type="submit" class="btn">Continue</button>    </div>
+</form>
+    <div class="hintWrapper cvName hidden">
+        <div class="trigger">
+            <img src="/assets/d44acf32/img/hint.svg" class="svg">
+        </div>
+        <div class="text">
+            <div>
+                Please enter the correct name that shall appear on the CV, as it won’t be editable afterwards
+            </div>
+        </div>
+    </div>
+    <div class="hintWrapper wordVersion hidden">
+        <div class="trigger">
+            <img src="/assets/d44acf32/img/hint.svg" class="svg">
+        </div>
+        <div class="text">
+            <div>
+                Choose your Word edition. For Word 2007 & 2010 the edition will appear while word is opening. For 2013 -2019 editions, Open word, Goto - File & then Account and you will find edition under product information.
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+
+<div class="preloader">
+
+    <div class="outer">
+        <div class="inner">
+            <div id="circle"></div>
+
+            <div class="percentage">
+            </div>
+
+            <div class="text">
+                <div>
+                    <div>
+                        <div>
+                            WELCOME TO
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            ICV TEMPLATES
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div>
+                        <div>
+                            LOADING
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            THE ART OF CV
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div>
+                        <div>
+                            YOU’RE ALL SET
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="notify">
+    <div></div>
+</div>
+
+<script src="/assets/220d0582/jquery.js?v=1430236984"></script>
+<script src="/assets/2e3e25d2/yii.js?v=1438812030"></script>
+<script src="/assets/d44acf32/js/libs/jquery.fullPage.min.js?v=1519413586"></script>
+<script src="/assets/d44acf32/js/libs/svgConvert.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery-ui.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery.easing.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery.cookie.js?v=1519413586"></script>
+<script src="/assets/d44acf32/js/libs/isIE.js?v=1519413586"></script>
+<script src="/assets/d44acf32/js/libs/modernizr.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/jquery.mobile.custom.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/compare.js?v=1498237082"></script>
+<script src="/assets/d44acf32/js/libs/perfect-scrollbar.jquery.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/libs/swiper.jquery.min.js?v=1498043794"></script>
+<script src="/assets/d44acf32/js/jpreloader.js?v=1498470334"></script>
+<script src="/assets/d44acf32/js/libs/circle-progress.min.js?v=1498470334"></script>
+<script src="https://www.paypalobjects.com/api/checkout.js"></script>
+<script src="/assets/d44acf32/js/main.js?v=1581956400"></script>
+<script src="/assets/2e3e25d2/yii.validation.js?v=1438812030"></script>
+<script src="/assets/2e3e25d2/yii.activeForm.js?v=1438812030"></script>
+<script type="text/javascript">jQuery(document).ready(function () {
+jQuery('#w0').yiiActiveForm([{"id":"checkoutform-user_first_name","name":"user_first_name","container":".field-checkoutform-user_first_name","input":"#checkoutform-user_first_name","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"First name* cannot be blank."});yii.validation.string(value, messages, {"message":"First name* must be a string.","max":200,"tooLong":"First name* should contain at most 200 characters.","skipOnEmpty":1});}},{"id":"checkoutform-user_last_name","name":"user_last_name","container":".field-checkoutform-user_last_name","input":"#checkoutform-user_last_name","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Last name* cannot be blank."});yii.validation.string(value, messages, {"message":"Last name* must be a string.","max":200,"tooLong":"Last name* should contain at most 200 characters.","skipOnEmpty":1});}},{"id":"checkoutform-user_email","name":"user_email","container":".field-checkoutform-user_email","input":"#checkoutform-user_email","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Email* cannot be blank."});yii.validation.string(value, messages, {"message":"Email* must be a string.","max":255,"tooLong":"Email* should contain at most 255 characters.","skipOnEmpty":1});yii.validation.email(value, messages, {"pattern":/^[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?$/,"fullPattern":/^[^@]*<[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?>$/,"allowName":false,"message":"Email* is not a valid email address.","enableIDN":false,"skipOnEmpty":1});}},{"id":"checkoutform-user_phone_number","name":"user_phone_number","container":".field-checkoutform-user_phone_number","input":"#checkoutform-user_phone_number","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Phone must be a string.","max":255,"tooLong":"Phone should contain at most 255 characters.","skipOnEmpty":1});}},{"id":"checkoutform-name_on_cv","name":"name_on_cv","container":".field-checkoutform-name_on_cv","input":"#checkoutform-name_on_cv","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Name That will appear on CV* cannot be blank."});yii.validation.string(value, messages, {"message":"Name That will appear on CV* must be a string.","max":255,"tooLong":"Name That will appear on CV* should contain at most 255 characters.","skipOnEmpty":1});}},{"id":"checkoutform-country","name":"country","container":".field-checkoutform-country","input":"#checkoutform-country","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Country must be a string.","max":255,"tooLong":"Country should contain at most 255 characters.","skipOnEmpty":1});}},{"id":"checkoutform-notes","name":"notes","container":".field-checkoutform-notes","input":"#checkoutform-notes","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Note must be a string.","skipOnEmpty":1});}},{"id":"checkoutform-payment_key","name":"payment_key","container":".field-checkoutform-payment_key","input":"#checkoutform-payment_key","validate":function (attribute, value, messages, deferred, $form) {yii.validation.range(value, messages, {"range":["1","0"],"not":false,"message":"Choose a payment method: is invalid.","skipOnEmpty":1});}}], []);
+
+    $('.payment-method-list').html($('.payment-method-list').html()
+    .replace('%paypal_payment_img%','<div class="imgWrapper"><img src="/assets/d44acf32/img/payment/paypal.svg"></div>')
+    .replace('%card_payment_img%','<div class="imgWrapper"><img src="/assets/d44acf32/img/payment/mc.svg">'+
+    '<img src="/assets/d44acf32/img/payment/visa.svg">'+
+    '<img src="/assets/d44acf32/img/payment/discover.svg">'+
+    '<img src="/assets/d44acf32/img/payment/ae.svg"></div>'))
+
+    $('.checkoutWrapper nav a').eq(0).removeClass('disabled').addClass('active');
+    
+    $('.fieldWithHint.cvName').append($('.hintWrapper.cvName.hidden').removeClass('hidden'));
+    if($('.fieldWithHint.wordVersion').length){
+        $('.fieldWithHint.wordVersion').append($('.hintWrapper.wordVersion.hidden').removeClass('hidden'));
+    }
+    
+    $('.fileField input[type=file]').after('<div class="customBlock"><span></span><a class="btn" href="#">Upload</a></div>');
+
+});</script></body>
+</html>
+

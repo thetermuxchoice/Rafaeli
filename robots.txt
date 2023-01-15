@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /backend
+Disallow: *?*
+
+Host: icvtemplates.com

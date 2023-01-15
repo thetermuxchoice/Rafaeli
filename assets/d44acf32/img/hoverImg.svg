@@ -1,0 +1,12 @@
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hover" transform="translate(-75.000000, -115.000000)">
+            <circle id="Oval" fill="#000000" opacity="0.300000012" cx="100" cy="140" r="20"></circle>
+            <circle id="Oval-Copy" fill="#000000" opacity="0.300000012" cx="100" cy="140" r="25"></circle>
+            <path d="M101,139 L101,130 L99,130 L99,139 L90,139 L90,141 L99,141 L99,150 L101,150 L101,141 L110,141 L110,139 L101,139 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
